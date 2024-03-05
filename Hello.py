@@ -1,51 +1,48 @@
-# Copyright (c) Streamlit Inc. (2018-2022) Snowflake Inc. (2022)
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
 import streamlit as st
-from streamlit.logger import get_logger
+from langchain.llms import OpenAI
+st.set_page_config(page_title="🦜🔗 PK_LLM")
+st.title('🦜🔗 PK_LLM for doing question and answering from literatures')
 
-LOGGER = get_logger(__name__)
+import os
+os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_BASE'] = "https://api.openai-forward.com/v1"
+os.environ['OPENAI_PROXY'] = "http://localhost:33210"
 
+import time
+from langchain_community.callbacks import get_openai_callback
 
-def run():
-    st.set_page_config(
-        page_title="Hello",
-        page_icon="👋",
-    )
+from paperqa import Docs
+# load
+import pickle
+from pathlib import Path
 
-    st.write("# Welcome to Streamlit! 👋")
+# 适合跨平台的路径表示
+pkl_path = Path("docs_demo.pkl")
 
-    st.sidebar.success("Select a demo above.")
-
-    st.markdown(
-        """
-        Streamlit is an open-source app framework built specifically for
-        Machine Learning and Data Science projects.
-        **👈 Select a demo from the sidebar** to see some examples
-        of what Streamlit can do!
-        ### Want to learn more?
-        - Check out [streamlit.io](https://streamlit.io)
-        - Jump into our [documentation](https://docs.streamlit.io)
-        - Ask a question in our [community
-          forums](https://discuss.streamlit.io)
-        ### See more complex demos
-        - Use a neural net to [analyze the Udacity Self-driving Car Image
-          Dataset](https://github.com/streamlit/demo-self-driving)
-        - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
-    """
-    )
+with pkl_path.open("rb") as f:
+    docs = pickle.load(f)
 
 
-if __name__ == "__main__":
-    run()
+def generate_response(input_text):
+    start_time = time.time()
+    with get_openai_callback() as cb:
+        st.info(docs.query(input_text,k=5))
+    # 记录结束时间
+    end_time = time.time()
+    # 计算运行时间
+    execution_time = end_time - start_time
+    stats = {
+        'execution_time_minutes': round(execution_time / 60, 3),
+        'total_tokens_used': cb.total_tokens,
+        'total_cost_USD': round(cb.total_cost, 4),
+    }
+    st.info(f'时间花费 {stats.get("execution_time_minutes")}')
+    st.info(f'本次问答总花费的tokens {stats.get("total_tokens_used")}')
+    st.info(f'本次问答总花费的tokens成本 {stats.get("total_cost_USD")}')
+    
+    
+with st.form('my_form'):
+    text = st.text_area('Enter text:', 'What are the three key pieces of advice for learning how to code?')
+    submitted = st.form_submit_button('Submit')
+    if submitted:
+        generate_response(text)
