@@ -4,9 +4,9 @@ st.set_page_config(page_title="🦜🔗 PK_LLM")
 st.title('🦜🔗 PK_LLM for doing question and answering from literatures')
 
 import os
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 os.environ['OPENAI_API_BASE'] = "https://api.openai-forward.com/v1"
-os.environ['OPENAI_PROXY'] = "http://localhost:33210"
+# os.environ['OPENAI_PROXY'] = "http://localhost:33210"
 
 import time
 from langchain_community.callbacks import get_openai_callback
