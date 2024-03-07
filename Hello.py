@@ -2,25 +2,21 @@ import streamlit as st
 from langchain.llms import OpenAI
 st.set_page_config(page_title="🦜🔗 PK_LLM")
 st.title('🦜🔗 PK_LLM for doing question and answering from literatures')
-
+openai_api_key = st.sidebar.text_input('OpenAI API Key')
 import os
-os.environ['OPENAI_API_KEY'] = "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"
-os.environ['OPENAI_API_BASE'] = "https://api.openai-forward.com/v1"
+
+#os.environ['OPENAI_API_BASE'] = "https://api.openai-forward.com/v1"
 # os.environ['OPENAI_PROXY'] = "http://localhost:33210"
 
 import time
 from langchain_community.callbacks import get_openai_callback
 
-from paperqa import Docs
+
 # load
 import pickle
 from pathlib import Path
-
-# 适合跨平台的路径表示
 pkl_path = Path("docs_demo.pkl")
 
-with pkl_path.open("rb") as f:
-    docs = pickle.load(f)
 
 
 def generate_response(input_text):
@@ -41,8 +37,19 @@ def generate_response(input_text):
     st.info(f'本次问答总花费的tokens成本 {stats.get("total_cost_USD")}')
     
     
+
 with st.form('my_form'):
-    text = st.text_area('Enter text:', 'What are the three key pieces of advice for learning how to code?')
-    submitted = st.form_submit_button('Submit')
-    if submitted:
-        generate_response(text)
+  text = st.text_area('Enter text:', 'What are the three key pieces of advice for learning how to code?')
+  submitted = st.form_submit_button('Submit')
+  if not openai_api_key.startswith('sk-'):
+    st.warning('Please enter your OpenAI API key!', icon='⚠')
+  if submitted and openai_api_key.startswith('sk-'):
+    os.environ['OPENAI_API_KEY'] = openai_api_key
+    from paperqa import Docs
+    with pkl_path.open("rb") as f:
+        docs = pickle.load(f)
+    docs.embeddings.openai_api_key = openai_api_key
+    from langchain.chat_models import ChatOpenAI
+    llm = ChatOpenAI(temperature=0.1, model="gpt-3.5-turbo", openai_api_key =openai_api_key )
+    docs.update_llm(llm)
+    generate_response(text)
