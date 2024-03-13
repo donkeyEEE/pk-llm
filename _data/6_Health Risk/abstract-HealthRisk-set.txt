@@ -1,0 +1,595 @@
+1. Int J Epidemiol. 2022 May 9;51(2):479-490. doi: 10.1093/ije/dyab115.
+
+Plasma concentrations of persistent organic pollutants and pancreatic cancer 
+risk.
+
+Porta M(1)(2)(3), Gasull M(1)(2)(3), Pumarega J(1)(2)(3), Kiviranta H(4), 
+Rantakokko P(4), Raaschou-Nielsen O(5), Bergdahl IA(6)(7), Sandanger TM(8), 
+Agudo A(9), Rylander C(8), Nøst TH(8), Donat-Vargas C(10)(11), Aune D(12), Heath 
+AK(12), Cirera L(3)(13)(14), Goñi-Irigoyen F(3)(15)(16), Alguacil J(3)(17), 
+Giménez-Robert À(1)(2), Tjønneland A(5), Sund M(18), Overvad K(19), Mancini 
+FR(20)(21), Rebours V(22)(23), Boutron-Ruault MC(20)(21), Kaaks R(24), Schulze 
+MB(25)(26), Trichopoulou A(27), Palli D(28), Grioni S(29), Tumino R(30), 
+Naccarati A(31), Panico S(32), Vermeulen R(33), Quirós JR(34), 
+Rodríguez-Barranco M(3)(35), Colorado-Yohar SM(3)(13)(36), Chirlaque 
+MD(3)(13)(14), Ardanaz E(3)(37)(38), Wareham N(39), Key T(40), Johansson M(41), 
+Murphy N(41), Ferrari P(41), Huybrechts I(41), Chajes V(41), Gonzalez CA(9), 
+Bueno-de-Mesquita B(42), Gunter M(41), Weiderpass E(41), Riboli E(12), Duell 
+EJ(43), Katzke V(24), Vineis P(12)(31).
+
+Author information:
+(1)Hospital del Mar Institute of Medical Research (IMIM PSMar), Barcelona, 
+Catalonia, Spain.
+(2)Universitat Autònoma de Barcelona, Barcelona, Catalonia, Spain.
+(3)Spanish Consortium for Research on Epidemiology and Public Health (CIBERESP), 
+Madrid, Spain.
+(4)Department of Health Security, National Institute for Health and Welfare, 
+Kuopio, Finland.
+(5)Danish Cancer Society Research Center, Copenhagen, Denmark.
+(6)Department of Biobank Research, Umeå University, Umeå, Sweden.
+(7)Occupational and Environmental Medicine, Department of Public Health and 
+Clinical Medicine, Umeå University, Umeå, Sweden.
+(8)Department of Community Medicine, UiT-The Arctic University of Norway, 
+Tromsø, Norway.
+(9)Unit of Nutrition and Cancer, Catalan Institute of Oncology (ICO-IDIBELL), 
+Barcelona, Spain.
+(10)Cardiovascular and Nutritional Epidemiology, Institute of Environmental 
+Medicine, Karolinska Institutet, Stockholm, Sweden.
+(11)Department of Preventive Medicine and Public Health, School of Medicine, 
+Universidad Autónoma de Madrid, CEI UAM+CSIC, Madrid, Spain.
+(12)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, UK.
+(13)Department of Epidemiology, Murcia Regional Health Council, IMIB-Arrixaca, 
+Murcia, Spain.
+(14)Department of Health and Social Sciences, University of Murcia, Murcia, 
+Spain.
+(15)Health Department of Basque Government, Public Health Laboratory in 
+Gipuzkoa, San Sebastian, Spain.
+(16)Health Research Institute Biodonostia, San Sebastian, Spain.
+(17)University of Huelva, Huelva, Spain.
+(18)Department of Surgical and Perioperative Sciences, Umeå University, Umeå, 
+Sweden.
+(19)Department of Public Health, Aarhus University, Aarhus, Denmark.
+(20)CESP, Faculté de médecine (USVQ), Université Paris-Sud, INSERM, Université 
+Paris-Saclay, Villejuif, France.
+(21)Inserm UMR1018, Institut Gustave Roussy, Villejuif, France.
+(22)Pancreatology Department, Beaujon Hospital, AP-HP, Clichy, France.
+(23)Inserm UMR1149, DHU Unit, Paris-Diderot University, Paris, France.
+(24)Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), 
+Heidelberg, Germany.
+(25)Department of Molecular Epidemiology, German Institute of Human Nutrition 
+Potsdam, Rehbruecke, Nuthetal, Germany.
+(26)Institute of Nutrition Science, University of Potsdam, Nuthetal, Germany.
+(27)Hellenic Health Foundation, Athens, Greece.
+(28)Cancer Risk Factors and Life-Style Epidemiology Unit, Institute for Cancer 
+Research, Prevention and Clinical Network-ISPRO, Florence, Italy.
+(29)Epidemiology and Prevention Unit, Fondazione IRCCS Istituto Nazionale dei 
+Tumori di Milano, Milan, Italy.
+(30)Cancer Registry and Histopathology Department, "Civic-M.P. Arezzo" Hospital, 
+ASP Ragusa, Ragusa, Italy.
+(31)Molecular and Genetic Epidemiology Unit, Italian Institute for Genomic 
+Medicine (IIGM), Turin, Italy.
+(32)Dipartimento di Medicina Clinica e Chirurgia, Federico II University, 
+Naples, Italy.
+(33)Institute for Risk Assessment Sciences (IRAS), Utrecht University, Utrecht, 
+The Netherlands.
+(34)Public Health Directorate, Asturias, Spain.
+(35)Escuela Andaluza de Salud Pública (EASP), Instituto de Investigación 
+Biosanitaria ibs.GRANADA, Granada, Spain.
+(36)National Faculty of Public Health, University of Antioquia, Medellín, 
+Colombia.
+(37)Navarra Public Health Institute, Pamplona, Spain.
+(38)IdiSNA, Navarra Institute for Health Research, Pamplona, Spain.
+(39)MRC Epidemiology Unit, Institute of Metabolic Science, University of 
+Cambridge, Cambridge, UK.
+(40)Cancer Epidemiology Unit, Nuffield Department of Population Health, 
+University of Oxford, Oxford, UK.
+(41)International Agency for Research on Cancer (IARC), World Health 
+Organization, Lyon, France.
+(42)Department for Determinants of Chronic Diseases (DCD), National Institute 
+for Public Health and the Environment (RIVM), Bilthoven, The Netherlands.
+(43)Oncology Data Analytics Program, Catalan Institute of Oncology 
+(ICO-IDIBELL), Barcelona, Spain.
+
+BACKGROUND: Findings and limitations of previous studies on persistent organic 
+pollutants (POPs) and pancreatic cancer risk support conducting further research 
+in prospective cohorts.
+METHODS: We conducted a prospective case-control study nested within the 
+European Prospective Investigation into Cancer and Nutrition (EPIC) cohort. 
+Participants were 513 pancreatic cancer cases and 1020 matched controls. 
+Concentrations of 22 POPs were measured in plasma collected at baseline.
+RESULTS: Some associations were observed at higher concentrations of p, p'-DDT, 
+trans-nonachlor, β-hexachlorocyclohexane and the sum of six organochlorine 
+pesticides and of 16 POPs. The odds ratio (OR) for the upper quartile of 
+trans-nonachlor was 1.55 (95% confidence interval 1.06-2.26; P for 
+trend = 0.025). Associations were stronger in the groups predefined as most 
+valid (participants having fasted >6 h, with microscopic diagnostic 
+confirmation, normal weight, and never smokers), and as most relevant (follow-up 
+≥10 years). Among participants having fasted >6 h, the ORs were relevant for 10 
+of 11 exposures. Higher ORs were also observed among cases with microscopic 
+confirmation than in cases with a clinical diagnosis, and among normal-weight 
+participants than in the rest of participants. Among participants with a 
+follow-up ≥10 years, estimates were higher than in participants with a shorter 
+follow-up (for trans-nonachlor: OR = 2.14, 1.01 to 4.53, P for trend = 0.035). 
+Overall, trans-nonachlor, three PCBs and the two sums of POPs were the exposures 
+most clearly associated with pancreatic cancer risk.
+CONCLUSIONS: Individually or in combination, most of the 22 POPs analysed did 
+not or only moderately increased the risk of pancreatic cancer.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+International Epidemiological Association.
+
+DOI: 10.1093/ije/dyab115
+PMCID: PMC9082788
+PMID: 34259837 [Indexed for MEDLINE]
+
+
+2. Curr Obes Rep. 2017 Mar;6(1):18-27. doi: 10.1007/s13679-017-0240-4.
+
+Endocrine Disruptors and Obesity.
+
+Darbre PD(1).
+
+Author information:
+(1)School of Biological Sciences, University of Reading, Reading, RG6 6UB, UK. 
+p.d.darbre@reading.ac.uk.
+
+PURPOSE OF REVIEW: The purpose of this review was to summarise current evidence 
+that some environmental chemicals may be able to interfere in the endocrine 
+regulation of energy metabolism and adipose tissue structure.
+RECENT FINDINGS: Recent findings demonstrate that such endocrine-disrupting 
+chemicals, termed "obesogens", can promote adipogenesis and cause weight gain. 
+This includes compounds to which the human population is exposed in daily life 
+through their use in pesticides/herbicides, industrial and household products, 
+plastics, detergents, flame retardants and as ingredients in personal care 
+products. Animal models and epidemiological studies have shown that an 
+especially sensitive time for exposure is in utero or the neonatal period. In 
+summarising the actions of obesogens, it is noteworthy that as their structures 
+are mainly lipophilic, their ability to increase fat deposition has the added 
+consequence of increasing the capacity for their own retention. This has the 
+potential for a vicious spiral not only of increasing obesity but also 
+increasing the retention of other lipophilic pollutant chemicals with an even 
+broader range of adverse actions. This might offer an explanation as to why 
+obesity is an underlying risk factor for so many diseases including cancer.
+
+DOI: 10.1007/s13679-017-0240-4
+PMCID: PMC5359373
+PMID: 28205155 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST: Philippa D. Darbre 
+declares that she has no conflict of interest. HUMAN AND ANIMAL RIGHTS AND 
+INFORMED CONSENT: This article does not contain any studies with human or animal 
+subjects performed by any of the authors.
+
+
+3. Ecotoxicol Environ Saf. 2023 Feb;251:114525. doi: 10.1016/j.ecoenv.2023.114525. 
+Epub 2023 Jan 12.
+
+Assessing the health risk of hyperuricemia in participants with persistent 
+organic pollutants exposure - a systematic review and meta-analysis.
+
+Yu Y(1), Quan X(1), Wang H(2), Zhang B(2), Hou Y(3), Su C(4).
+
+Author information:
+(1)Peking University Health Science Center, China.
+(2)Chinese Center for Disease Control and Prevention National Institute for 
+Nutrition and Health, China; Key Laboratory of Trace Element Nutrition, National 
+Health Commission of the People's Republic of China, China.
+(3)Peking University Health Science Center, China. Electronic address: 
+houyan@bjmu.edu.cn.
+(4)Chinese Center for Disease Control and Prevention National Institute for 
+Nutrition and Health, China; Key Laboratory of Trace Element Nutrition, National 
+Health Commission of the People's Republic of China, China. Electronic address: 
+suchang@ninh.chinacdc.cn.
+
+Erratum in
+    Ecotoxicol Environ Saf. 2023 Mar 15;253:114661.
+
+Based on a systematic review and meta-analysis of articles published in PubMed, 
+Embase, Cochrane, and Web of Science, we identified nine articles that provide 
+evidence of the relationship between persistent organic pollutants and 
+hyperuricemia. Our researchers assess the quality of the included studies and 
+their risk of bias using the recommended method and tool. This study uses 
+meta-analyses of the random effects of each exposure and outcome to estimate 
+combined odds ratios (ORs) and 95% confidence intervals (CIs). We found that the 
+risk of hyperuricemia was strongly associated with three perfluorinated 
+compounds, PFNA, PFOA, and PFOS, with the OR(95%CI) of 1.26 (1.07-1.47), 
+1.44(1.15-1.79), and 1.23(1.01-1.50) respectively. We also found a weak 
+association between two other perfluorinated compounds, PFDA and PFHxS. Other 
+than that, the summary ORs (95% CIs) of incident hyperuricemia were 2.34 
+(1.79-3.08) for DDT, 3.25(2.40-4.39) for DDE, 2.57 (1.37-4.81) for PCBs and 
+3.05(2.22-4.19) in trans-nonanchlor. Therefore, DDT and its breakdown product, 
+DDE, PCBs, and trans-nonanchlor have also been linked with an increased risk of 
+hyperuricemia in humans. This study finds that persistent organic pollutant is a 
+critical factor for hyperuricemia, and further studies in specific regions will 
+be considered in the future.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2023.114525
+PMID: 36640578 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Hou Yan reports financial support 
+was provided by National Natural Science Foundation of China. Chang Su reports 
+financial support was provided by National Key R&D program of China.
+
+
+4. Sci Total Environ. 2022 Jul 20;831:154808. doi: 10.1016/j.scitotenv.2022.154808. 
+Epub 2022 Mar 24.
+
+Persistent organic pollutants in water resources: Fate, occurrence, 
+characterization and risk analysis.
+
+Aravind Kumar J(1), Krithiga T(2), Sathish S(3), Renita AA(4), Prabu D(3), 
+Lokesh S(5), Geetha R(6), Namasivayam SKR(7), Sillanpaa M(8).
+
+Author information:
+(1)Department of Biomass and Energy Conversion, Saveetha School of Engineering, 
+SIMATS, Chennai, 602105, India. Electronic address: arvindhjsbu@gmail.com.
+(2)Department of Chemistry, Sathyabama Institute of Science and Technology, 
+Chennai - 600119, India.
+(3)Department of Chemical Engineering, Sathyabama Institute of Science and 
+Technology, Chennai - 600119, India.
+(4)Department of Chemical Engineering, Sathyabama Institute of Science and 
+Technology, Chennai - 600119, India. Electronic address: reniriana@gmail.com.
+(5)Department of Biomass and Energy Conversion, Saveetha School of Engineering, 
+SIMATS, Chennai, 602105, India.
+(6)Department of Instrumentation and Control Engineering, Saveetha School of 
+Engineering, SIMATS, Chennai, India.
+(7)Division of Research and Innovation, Department of Biotechnology, Saveetha 
+School of Engineering, SIMATS, Chennai, 602105, India.
+(8)Department of Chemical Engineering, School of Mining, Metallurgy and Chemical 
+Engineering, University of Johannesburg, P. O. Box 17011, Doornfontein 2028, 
+South Africa; Department of Applied Physics, Faculty of Science and Technology, 
+Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor, Malaysia; International 
+Research Centre of Nanotechnology for Himalayan Sustainability (IRCNHS), 
+Shoolini University, Solan, 173212, Himachal Pradesh, India.
+
+Persistent organic pollutants (POPs) are organic chemicals that can persist in 
+the environment for a longer period due to their non-biodegradability. The 
+pervasive and bio-accumulative behavior of POPs makes them highly toxic to the 
+environmental species including plants, animals, and humans. The present review 
+specifies the POP along with their fate, persistence, occurrence, and risk 
+analysis towards humans. The different biological POPs degradation methods, 
+especially the microbial degradation using bacteria, fungi, algae, and 
+actinomycetes, and their mechanisms were described. Moreover, the source, 
+transport of POPs to the environmental sources, and the toxic nature of POPs 
+were discussed in detail. Agricultural and industrial activities are 
+distinguished as the primary source of these toxic compounds, which are 
+delivered to air, soil, and water, affecting on the social and economic 
+advancement of society at a worldwide scale. This review also demonstrated the 
+microbial degradation of POPs and outlines the potential for an 
+eco-accommodating and cost-effective approach for the biological remediation of 
+POPs using microbes. The direction for future research in eliminating POPs from 
+the environmental sources through various microbial processes was emphasized.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.154808
+PMID: 35341870 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. J Hazard Mater. 2023 Feb 5;443(Pt A):130189. doi: 10.1016/j.jhazmat.2022.130189. 
+Epub 2022 Oct 13.
+
+Surfactant-enhanced mobilization of persistent organic pollutants: Potential for 
+soil and sediment remediation and unintended consequences.
+
+Bolan S(1), Padhye LP(2), Mulligan CN(3), Alonso ER(4), Saint-Fort R(5), 
+Jasemizad T(2), Wang C(6), Zhang T(6), Rinklebe J(7), Wang H(8), Siddique 
+KHM(9), Kirkham MB(10), Bolan N(11).
+
+Author information:
+(1)UWA School of Agriculture and Environment, The University of Western 
+Australia, Perth, WA 6001, Australia.
+(2)Department of Civil and Environmental Engineering, Faculty of Engineering, 
+The University of Auckland, Auckland 1010, New Zealand.
+(3)Department of Bldg, Civil and Environmental Engineering, Concordia 
+University, Montreal H3G 1M8, Canada.
+(4)Departamento de Ingeniería Química y Ambiental, Escuela Técnica Superior de 
+Ingeniería, Universidad de Sevilla, Camino de los Descubrimientos, s/n, 41092 
+Sevilla, Spain.
+(5)Department of Environmental Science, Faculty of Science &amp; Technology, 
+Mount Royal University, Calgary, AB T3E6K6, Canada.
+(6)Beijing Key Laboratory of Farmland Soil Pollution Prevention and Remediation, 
+Key Laboratory of Plant-Soil Interactions of Ministry of Education, College of 
+Resources and Environmental Sciences, China Agricultural University, Beijing 
+100193, China.
+(7)University of Wuppertal, School of Architecture and Civil Engineering, 
+Institute of Foundation Engineering, Water, and Waste-Management, Laboratory of 
+Soil, and Groundwater-Management, Pauluskirchstraße 7, 42285 Wuppertal, Germany.
+(8)Biochar Engineering Technology Research Center of Guangdong Province, School 
+of Environmental and Chemical Engineering, Foshan University, Foshan, Guangdong 
+528000, People's Republic of China; Key Laboratory of Soil Contamination 
+Bioremediation of Zhejiang Province, Zhejiang A&amp;F University, Hangzhou, 
+Zhejiang 311300, People's Republic of China.
+(9)UWA institute of Agriculture and Environment, The University of Western 
+Australia, Perth, WA 6001, Australia.
+(10)Department of Agronomy, Kansas State University, Manhattan, KS, 66506, USA.
+(11)UWA School of Agriculture and Environment, The University of Western 
+Australia, Perth, WA 6001, Australia; UWA institute of Agriculture and 
+Environment, The University of Western Australia, Perth, WA 6001, Australia. 
+Electronic address: Nanthi.Bolan@uwa.edu.au.
+
+This review aims to provide an overview of the sources and reactions of 
+persistent organic pollutants (POPs) and surfactants in soil and sediments, the 
+surfactant-enhanced solubilisation of POPs, and the unintended consequences of 
+surfactant-induced remediation of soil and sediments contaminated with POPs. 
+POPs include chemical compounds that are recalcitrant to natural degradation 
+through photolytic, chemical, and biological processes in the environment. POPs 
+are potentially toxic compounds mainly used in pesticides, solvents, 
+pharmaceuticals, or industrial applications and pose a significant and 
+persistent risk to the ecosystem and human health. Surfactants can serve as 
+detergents, wetting and foaming compounds, emulsifiers, or dispersants, and have 
+been used extensively to promote the solubilization of POPs and their subsequent 
+removal from environmental matrices, including solid wastes, soil, and 
+sediments. However, improper use of surfactants for remediation of POPs may lead 
+to unintended consequences that include toxicity of surfactants to soil 
+microorganisms and plants, and leaching of POPs, thereby resulting in 
+groundwater contamination.
+
+Crown Copyright © 2022. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhazmat.2022.130189
+PMID: 36265382 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Rev Environ Health. 2022 May 5;38(3):401-408. doi: 10.1515/reveh-2021-0105. 
+Print 2023 Sep 26.
+
+Determination of safe levels of persistent organic pollutants in toxicology and 
+epidemiology.
+
+Muir T(1), Michalek JE(2), Palmer RF(3).
+
+Author information:
+(1)Environment Canada, 70 Townsend Ave, Burlington, ON, Canada.
+(2)Department of Population Health Sciences, UT Health San Antonio, San Antonio 
+TX, USA.
+(3)Department of Family and Community Medicine, UT Health San Antonio, San 
+Antonio TX, USA.
+
+We reviewed published manuscripts from toxicology and epidemiology reporting 
+harmful health effects and doses of persistent organic pollutants (POPs), 
+published between 2000 and 2021. We found 42 in vitro, 32 in vivo, and 74 
+epidemiological studies and abstracted the dose associated with harm in a common 
+Molar unit. We hypothesized that the dose associated with harm would vary 
+between animal and human studies. To test this hypothesis, for each of several 
+POPs, we assessed the significance of variation in the dose associated with a 
+harmful effect [categorized as non-thyroid endocrine (NTE), developmental 
+neurotoxicity (DNT), and Thyroid] with study type (in vitro, in vivo, and 
+Epidemiology) using a linear model after adjustment for basis (lipid weight, wet 
+weight). We created a Calculated Safety Factor (CSF) defined as the toxicology 
+dose divided by epidemiology dose needed to exhibit significant harm. 
+Significant differences were found between study types ranging from <1 to 5.0 
+orders of magnitude in the dose associated with harm. Our CSFs in lipid weight 
+varied from 12.4 (95% confidence interval (CI) 3.3, 47) for NTE effects in 
+Epidemiology relative to in vivo studies to 6,244 (95% CI 2510, 15530) for DNT 
+effects in Epidemiology relative to in vitro in wet weight representing 12.4 to 
+6.2 thousand-fold more sensitivity in people relative to animals, and 
+mechanistic models, respectively. In lipid weight, all CSF 95% CI lower bounds 
+across effect categories were less than 6.5. CIs for CSFs ranged from less than 
+one to four orders of magnitude for in vivo, and two to five orders of magnitude 
+for in vitro vs. Epidemiology. A global CSF for all Epidemiology vs. all 
+Toxicology was 104.6 (95% CI 72 to 152), significant at p<0.001.
+
+© 2022 Tom Muir et al., published by De Gruyter, Berlin/Boston.
+
+DOI: 10.1515/reveh-2021-0105
+PMID: 35506713 [Indexed for MEDLINE]
+
+
+7. Am J Public Health. 2017 Jul;107(7):1032-1039. doi: 10.2105/AJPH.2017.303771. 
+Epub 2017 May 18.
+
+Chemical Risk Assessment: Traditional vs Public Health Perspectives.
+
+Gwinn MR(1), Axelrad DA(1), Bahadori T(1), Bussard D(1), Cascio WE(1), Deener 
+K(1), Dix D(1), Thomas RS(1), Kavlock RJ(1), Burke TA(1).
+
+Author information:
+(1)At the time of the writing of this article, all of the authors were with the 
+US Environmental Protection Agency, Washington, DC.
+
+Comment in
+    Am J Public Health. 2017 Jul;107(7):1020-1021.
+
+Preventing adverse health effects of environmental chemical exposure is 
+fundamental to protecting individual and public health. When done efficiently 
+and properly, chemical risk assessment enables risk management actions that 
+minimize the incidence and effects of environmentally induced diseases related 
+to chemical exposure. However, traditional chemical risk assessment is faced 
+with multiple challenges with respect to predicting and preventing disease in 
+human populations, and epidemiological studies increasingly report observations 
+of adverse health effects at exposure levels predicted from animal studies to be 
+safe for humans. This discordance reinforces concerns about the adequacy of 
+contemporary risk assessment practices for protecting public health. It is 
+becoming clear that to protect public health more effectively, future risk 
+assessments will need to use the full range of available data, draw on 
+innovative methods to integrate diverse data streams, and consider health 
+endpoints that also reflect the range of subtle effects and morbidities observed 
+in human populations. Considering these factors, there is a need to reframe 
+chemical risk assessment to be more clearly aligned with the public health goal 
+of minimizing environmental exposures associated with disease.
+
+DOI: 10.2105/AJPH.2017.303771
+PMCID: PMC5463214
+PMID: 28520487 [Indexed for MEDLINE]
+
+
+8. Environ Int. 2015 Dec;85:120-32. doi: 10.1016/j.envint.2015.09.008. Epub 2015 
+Sep 17.
+
+Uncertainties in human health risk assessment of environmental contaminants: A 
+review and perspective.
+
+Dong Z(1), Liu Y(1), Duan L(1), Bekele D(1), Naidu R(2).
+
+Author information:
+(1)The Faculty of Science and Information Technology, University of Newcastle, 
+University Drive, Callaghan, NSW 2308, Australia; Cooperative Research Centre 
+for Contamination Assessment and Remediation of the Environment, Mawson Lakes, 
+SA 5095, Australia.
+(2)The Faculty of Science and Information Technology, University of Newcastle, 
+University Drive, Callaghan, NSW 2308, Australia; Cooperative Research Centre 
+for Contamination Assessment and Remediation of the Environment, Mawson Lakes, 
+SA 5095, Australia. Electronic address: ravi.naidu@newcastle.edu.au.
+
+Addressing uncertainties in human health risk assessment is a critical issue 
+when evaluating the effects of contaminants on public health. A range of 
+uncertainties exist through the source-to-outcome continuum, including exposure 
+assessment, hazard and risk characterisation. While various strategies have been 
+applied to characterising uncertainty, classical approaches largely rely on how 
+to maximise the available resources. Expert judgement, defaults and tools for 
+characterising quantitative uncertainty attempt to fill the gap between data and 
+regulation requirements. The experiences of researching 
+2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) illustrated uncertainty sources and 
+how to maximise available information to determine uncertainties, and thereby 
+provide an 'adequate' protection to contaminant exposure. As regulatory 
+requirements and recurring issues increase, the assessment of complex scenarios 
+involving a large number of chemicals requires more sophisticated tools. Recent 
+advances in exposure and toxicology science provide a large data set for 
+environmental contaminants and public health. In particular, biomonitoring 
+information, in vitro data streams and computational toxicology are the crucial 
+factors in the NexGen risk assessment, as well as uncertainties minimisation. 
+Although in this review we cannot yet predict how the exposure science and 
+modern toxicology will develop in the long-term, current techniques from 
+emerging science can be integrated to improve decision-making.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envint.2015.09.008
+PMID: 26386465 [Indexed for MEDLINE]
+
+
+9. Ecotoxicol Environ Saf. 2023 Oct 15;265:115540. doi: 
+10.1016/j.ecoenv.2023.115540. Epub 2023 Oct 5.
+
+Association between exposure to persistent organic pollutants and pubertal 
+timing in boys and girls: A systematic review and meta-analysis.
+
+Lan H(1), Hu Z(1), Gan H(1), Wu L(1), Xie S(1), Jiang Y(1), Ye D(2), Ye X(3).
+
+Author information:
+(1)School of Medical Technology and Information Engineering, Zhejiang Chinese 
+Medical University, Hangzhou 310053, China.
+(2)School of Public Health, Zhejiang Chinese Medical University, Hangzhou 
+310053, China.
+(3)School of Medical Technology and Information Engineering, Zhejiang Chinese 
+Medical University, Hangzhou 310053, China. Electronic address: 
+yexq@zcmu.edu.cn.
+
+In recent years, the phenomenon of abnormal pubertal timing in children has 
+become increasingly common worldwide. Persistent organic pollutants (POPs) may 
+be one of the risk factors contributing to this phenomenon, but the relationship 
+between them is unclear based on current evidence. The purpose of this study was 
+to determine the association of POPs exposure with pubertal timing in girls and 
+boys by conducting a systematic review and meta-analysis. We searched PubMed and 
+Embase databases for studies before June 1, 2023. Meta-analysis was performed by 
+pooling relative risk (RR) or odds ratio (OR) or prevalence ratio (PR) or hazard 
+ratio (HR) estimates with 95 % confidence intervals (CIs). Subgroup analysis, 
+publication bias assessment and sensitivity analysis were also carried out. A 
+total of 21 studies were included, involving 2479 boys and 8718 girls. The 
+results of meta-analysis showed that exposure to POPs was significantly 
+associated with delayed pubertal timing in girls (RR: 0.85; 95 % CI: 0.79-0.91; 
+p < 0.001). There was no statistically significant association between exposure 
+to POPs and pubertal timing in boys (RR: 1.18; 95 % CI: 0.99-1.40; p = 0.070). 
+Subgroup analysis showed that there may be gender differences in the effects of 
+exposure to POPs on pubertal timing. Our results suggested that exposure to POPs 
+could delay pubertal timing in girls. However, based on current evidence, no 
+significant association was found between POPs exposure and pubertal timing in 
+boys.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2023.115540
+PMID: 37801753 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+10. Arch Toxicol. 2022 Dec;96(12):3407-3419. doi: 10.1007/s00204-022-03356-5. Epub 
+2022 Sep 5.
+
+Towards best use and regulatory acceptance of generic physiologically based 
+kinetic (PBK) models for in vitro-to-in vivo extrapolation (IVIVE) in chemical 
+risk assessment.
+
+Najjar A(1), Punt A(2), Wambaugh J(3), Paini A(4), Ellison C(5), Fragki S(6), 
+Bianchi E(7), Zhang F(8), Westerhout J(9), Mueller D(10), Li H(11), Shi Q(12), 
+Gant TW(13), Botham P(14), Bars R(15), Piersma A(6), van Ravenzwaay B(16), 
+Kramer NI(17).
+
+Author information:
+(1)Beiersdorf AG, Hamburg, Germany.
+(2)Wageningen Food Safety Research, Wageningen, The Netherlands.
+(3)Center for Computational Toxicology and Exposure, Office of Research and 
+Development, U.S. Environmental Protection Agency, Research Triangle Park, NC, 
+USA.
+(4)esqLABS GmbH, Saterland, Germany.
+(5)The Procter and Gamble Company, Cincinnati, OH, USA.
+(6)National Institute for Public Health and the Environment, Bilthoven, The 
+Netherlands.
+(7)Corteva Agriscience, Indianapolis, IN, USA.
+(8)The Dow Chemical Company, Midland, MI, USA.
+(9)The Netherlands Organisation for Applied Scientific Research TNO, Utrecht, 
+The Netherlands.
+(10)Research and Development, Crop Science, Bayer AG, Monheim, Germany.
+(11)Unilever Safety and Environmental Assurance Centre, Colworth Science Park, 
+Sharnbrook, Bedfordshire, UK.
+(12)Shell Global Solutions International B.V, The Hague, The Netherlands.
+(13)School of Public Health, Faculty of Medicine, Imperial College London, 
+London, UK.
+(14)Syngenta, Jealott's Hill, Bracknell, Berkshire, UK.
+(15)Crop Science Division, Bayer S.A.S., Sophia Antipolis, France.
+(16)Environmental Sciences Consulting, Altrip, Germany.
+(17)Toxicology Division, Wageningen University, PO Box 8000, 6700 EA, 
+Wageningen, The Netherlands. nynke.kramer@wur.nl.
+
+With an increasing need to incorporate new approach methodologies (NAMs) in 
+chemical risk assessment and the concomitant need to phase out animal testing, 
+the interpretation of in vitro assay readouts for quantitative hazard 
+characterisation becomes more important. Physiologically based kinetic (PBK) 
+models, which simulate the fate of chemicals in tissues of the body, play an 
+essential role in extrapolating in vitro effect concentrations to in vivo 
+bioequivalent exposures. As PBK-based testing approaches evolve, it will become 
+essential to standardise PBK modelling approaches towards a consensus approach 
+that can be used in quantitative in vitro-to-in vivo extrapolation (QIVIVE) 
+studies for regulatory chemical risk assessment based on in vitro assays. Based 
+on results of an ECETOC expert workshop, steps are recommended that can improve 
+regulatory adoption: (1) define context and implementation, taking into 
+consideration model complexity for building fit-for-purpose PBK models, (2) 
+harmonise physiological input parameters and their distribution and define 
+criteria for quality chemical-specific parameters, especially in the absence of 
+in vivo data, (3) apply Good Modelling Practices (GMP) to achieve transparency 
+and design a stepwise approach for PBK model development for risk assessors, (4) 
+evaluate model predictions using alternatives to in vivo PK data including 
+read-across approaches, (5) use case studies to facilitate discussions between 
+modellers and regulators of chemical risk assessment. Proof-of-concepts of 
+generic PBK modelling approaches are published in the scientific literature at 
+an increasing rate. Working on the previously proposed steps is, therefore, 
+needed to gain confidence in PBK modelling approaches for regulatory use.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00204-022-03356-5
+PMCID: PMC9584981
+PMID: 36063173 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

@@ -1,0 +1,424 @@
+1. Nat Commun. 2019 Mar 15;10(1):1236. doi: 10.1038/s41467-019-09155-4.
+
+Advancing environmental exposure assessment science to benefit society.
+
+Caplin A(1), Ghandehari M(2), Lim C(3), Glimcher P(1), Thurston G(3).
+
+Author information:
+(1)School of Arts and Sciences, Department of Economics, New York University, 
+New York, NY, USA.
+(2)Tandon School of Engineering, Department of Urban Engineering, New York 
+University, New York, NY, USA. masoud@nyu.edu.
+(3)NYU School of Medicine, Department of Environmental Medicine, New York 
+University, New York, NY, USA.
+
+Awareness of the human health impacts of exposure to air pollution is growing 
+rapidly. For example, it has become evident that the adverse health effects of 
+air pollution are more pronounced in disadvantaged populations. Policymakers in 
+many jurisdictions have responded to this evidence by enacting initiatives that 
+lead to lower concentrations of air pollutants, such as urban traffic 
+restrictions. In this review, we focus on the interplay between advances in 
+environmental exposure assessment and developments in policy. We highlight 
+recent progress in the granular measurement of air pollutants and 
+individual-level exposures, and how this has enabled focused local policy 
+actions. Finally, we detail an illustrative study designed to link 
+individual-level health-relevant exposures with economic, behavioral, 
+biological, familial, and environmental variables.
+
+DOI: 10.1038/s41467-019-09155-4
+PMCID: PMC6420629
+PMID: 30874557 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. Curr Environ Health Rep. 2023 Jun;10(2):73-83. doi: 10.1007/s40572-023-00396-6. 
+Epub 2023 Apr 1.
+
+Environmental Exposure Disparities and Neurodevelopmental Risk: a Review.
+
+Dickerson AS(1)(2)(3), Frndak S(4), DeSantiago M(5), Mohan A(6), Smith GS(7)(5).
+
+Author information:
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, 21205, USA. adicke10@jhu.edu.
+(2)Wendy Klag Center for Autism and Developmental Disabilities, Johns Hopkins 
+Bloomberg School of Public Health, Baltimore, MD, 21205, USA. adicke10@jhu.edu.
+(3)Hopkins Center for Health Disparities Solution, Johns Hopkins Bloomberg 
+School of Public Health, Baltimore, MD, 21205, USA. adicke10@jhu.edu.
+(4)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, 21205, USA.
+(5)Department of Environmental Health and Engineering, Johns Hopkins Bloomberg 
+School of Public Health, Baltimore, MD, 21205, USA.
+(6)Department of Health, Behavior, and Society, Johns Hopkins Bloomberg School 
+of Public Health, Baltimore, MD, 21205, USA.
+(7)Hopkins Center for Health Disparities Solution, Johns Hopkins Bloomberg 
+School of Public Health, Baltimore, MD, 21205, USA.
+
+PURPOSE OF REVIEW: Neurotoxicant exposures are of particular concern in 
+historically marginalized communities. Often a consequence of structural racism, 
+low-income minoritized populations experience a disproportionate burden of 
+hazardous exposures through proximity to industrial facilities, high traffic 
+roads, and suboptimal housing. Here, we summarize reports on exposures and 
+neurodevelopment focused on differences by education, income, race/ethnicity, or 
+immigration status from 2015 to 2022, discuss the importance of such 
+investigations in overburdened communities, and recommend areas for future 
+research.
+RECENT FINDINGS: We found 20 studies that investigated exposure disparities and 
+neurodevelopment in children. Most were conducted in the USA, and many focused 
+on air pollution, followed by metal exposures and water contamination. Although 
+several studies showed differences in exposure-outcome associations by income 
+and education, many examining differences by race/ethnicity did not report 
+notable disparities between groups. However, measures of individual race and 
+ethnicity are not reliable measures of discrimination experienced as a 
+consequence of structural racism. Our review supports scientific evidence that 
+the reduction of individual and widespread municipal exposures will improve 
+child development and overall public health. Identified research gaps include 
+the use of better indicators of economic status and structural racism, 
+evaluations of effect modification and attributable fraction of outcomes by 
+these factors, and considerations of multidimensional neighborhood factors that 
+could be protective against environmental insults. Considering that vulnerable 
+populations have disparities in access to and quality of care, greater burden of 
+exposure, and fewer resources to incur associated expenses, such populations 
+should be prioritized.
+
+© 2023. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s40572-023-00396-6
+PMID: 37002432 [Indexed for MEDLINE]
+
+
+3. Rev Environ Health. 2019 Mar 26;34(1):35-56. doi: 10.1515/reveh-2018-0045.
+
+Exposure to environmental toxicants and young children's cognitive and social 
+development.
+
+Davis AN(1), Carlo G(2), Gulseven Z(2), Palermo F(2), Lin CH(3), Nagel SC(4), Vu 
+DC(3), Vo PH(3), Ho TL(5), McElroy JA(6).
+
+Author information:
+(1)Individual, Family, and Community Education, University of New Mexico, 
+Albuquerque, NM, USA, Phone: +816-294-6950.
+(2)Human Development and Family Science, University of Missouri, Columbia, MO, 
+USA.
+(3)Center for Agroforestry, University of Missouri, Columbia, MO, USA.
+(4)Obstetrics, Gynecology, and Women's Health, University of Missouri, Columbia, 
+MO, USA.
+(5)Cuu Long Delta Rice Research Institute, Can Tho, Vietnam.
+(6)Family and Community Medicine, University of Missouri, Columbia, MO, USA.
+
+Background Understanding the role of environmental toxicant exposure on 
+children's development is an important area of inquiry in order to better 
+understand contextual factors that shape development and ultimately school 
+readiness among young children. There is evidence suggesting negative links 
+between exposure to environmental toxicants and negative physical health 
+outcomes (i.e. asthma, allergies) in children. However, research on children's 
+exposure to environmental toxicants and other developmental outcomes (cognitive, 
+socioemotional) is limited. Objectives The goal of the current review was to 
+assess the existing literature on the links between environmental toxicants 
+(excluding heavy metals) and children's cognitive, socioemotional, and 
+behavioral development among young children. Methods This literature review 
+highlights research on environmental toxicants (i.e. pesticide exposure, 
+bisphenol A, polycyclic aromatic hydrocarbons, tobacco smoke, polychlorinated 
+biphenyls, flame retardants, phthalates and gas pollutions) and children's 
+development across multiple domains. Results The results highlight the potential 
+risk of exposure to multiple environmental toxicants for young children's 
+cognitive and socioemotional development. Discussion Discussion will focus on 
+the role of environmental toxicants in the cognitive and socioemotional 
+development of young children, while highlighting gaps in the existing 
+literature.
+
+DOI: 10.1515/reveh-2018-0045
+PMID: 30844763 [Indexed for MEDLINE]
+
+
+4. Nat Nanotechnol. 2020 Sep;15(9):731-742. doi: 10.1038/s41565-020-0742-1. Epub 
+2020 Aug 17.
+
+Key principles and operational practices for improved nanotechnology 
+environmental exposure assessment.
+
+Svendsen C(1), Walker LA(2), Matzke M(1), Lahive E(1), Harrison S(2), Crossley 
+A(3), Park B(4), Lofts S(2), Lynch I(5), Vázquez-Campos S(6), Kaegi R(7), Gogos 
+A(7)(8), Asbach C(9), Cornelis G(10), von der Kammer F(11), van den Brink 
+NW(12), Mays C(13), Spurgeon DJ(14).
+
+Author information:
+(1)UK Centre for Ecology and Hydrology, Wallingford, Oxfordshire, UK.
+(2)UK Centre for Ecology and Hydrology, Lancaster Environment Centre, Lancaster, 
+UK.
+(3)Department of Materials, Oxford University, Begbroke Science Park, Oxford, 
+UK.
+(4)GBP Consulting Ltd, Purton, Swindon, UK.
+(5)School of Geography, Earth and Environmental Sciences, University of 
+Birmingham, Birmingham, UK.
+(6)LEITAT Technological Center, Barcelona, Spain.
+(7)EAWAG, Swiss Federal Institute of Aquatic Science and Technology, Dübendorf, 
+Switzerland.
+(8)EMPA, Swiss Federal Laboratories for Materials Science and Technology, St. 
+Gallen, Switzerland.
+(9)Department of Air Quality and Filtration, Institut für Energie- und 
+Umwelttechnik e. V. (IUTA), Duisburg, Germany.
+(10)Department of Soil and Environment, Swedish University of Agricultural 
+Sciences, Uppsala, Sweden.
+(11)Department of Environmental Geosciences, University of Vienna, Vienna, 
+Austria.
+(12)Sub-department of Toxicology, Department of Agrotechnology and Food 
+Sciences, Wageningen University, Wageningen, The Netherlands.
+(13)Symlog, Paris, France.
+(14)UK Centre for Ecology and Hydrology, Wallingford, Oxfordshire, UK. 
+dasp@ceh.ac.uk.
+
+Nanotechnology is identified as a key enabling technology due to its potential 
+to contribute to economic growth and societal well-being across industrial 
+sectors. Sustainable nanotechnology requires a scientifically based and 
+proportionate risk governance structure to support innovation, including a 
+robust framework for environmental risk assessment (ERA) that ideally builds on 
+methods established for conventional chemicals to ensure alignment and avoid 
+duplication. Exposure assessment developed as a tiered approach is equally 
+beneficial to nano-specific ERA as for other classes of chemicals. Here we 
+present the developing knowledge, practical considerations and key principles 
+need to support exposure assessment for engineered nanomaterials for regulatory 
+and research applications.
+
+DOI: 10.1038/s41565-020-0742-1
+PMID: 32807878 [Indexed for MEDLINE]
+
+
+5. Environ Res. 2020 Jan;180:108825. doi: 10.1016/j.envres.2019.108825. Epub 2019 
+Oct 16.
+
+Circular RNAs as biomarkers and therapeutic targets in environmental chemical 
+exposure-related diseases.
+
+Li D(1), Li Z(2), Yang Y(3), Zeng X(4), Li Y(3), Du X(4), Zhu X(5).
+
+Author information:
+(1)College of Environmental Science and Engineering, China West Normal 
+University, Nanchong, Sichuan, 637009, China; College of Life Science, Sichuan 
+Agricultural University, Ya'an, Sichuan, 625014, China.
+(2)College of Environmental and Civil Engineering, Chengdu University of 
+Technology, Chengdu, Sichuan, 610059, China.
+(3)College of Environmental Science and Engineering, China West Normal 
+University, Nanchong, Sichuan, 637009, China.
+(4)College of Life Science, Sichuan Agricultural University, Ya'an, Sichuan, 
+625014, China.
+(5)College of Environmental Science and Engineering, China West Normal 
+University, Nanchong, Sichuan, 637009, China; College of Environmental and Civil 
+Engineering, Chengdu University of Technology, Chengdu, Sichuan, 610059, China. 
+Electronic address: 18990869488@163.com.
+
+Chemical contamination in the environment is known to cause abnormal circular 
+RNA (circRNA) expression through multiple exposure routes; yet, the underlying 
+molecular mechanisms remain unclear. Non-coding RNAs (ncRNAs), especially 
+circRNAs, play important roles in epigenetic regulation and disease 
+pathogenesis; however, few studies have examined the function of circRNAs in 
+chemical contamination-induced diseases. CircRNAs are covalently closed 
+continuous loops that do not possess 5' and 3' ends, increasing their structural 
+stability and limiting degradation by exoribonucleases. In addition, 
+environmental chemical exposure-related diseases are often accompanied by 
+aberrant expression of specific circRNAs and those circRNAs are often detected 
+in tissues and body fluids. Based on these characteristics, circRNAs may serve 
+as candidate biomarkers for the diagnosis of diseases related to environmental 
+chemical exposure. Here, we review the generation and function of circRNAs, and 
+the possible molecular mechanisms underlying the regulation of environmental 
+chemical exposure-related disorders by circRNAs. This is the first comprehensive 
+review of the relationship between environmental chemical exposure and circRNAs 
+in chemical exposure-induced diseases.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.envres.2019.108825
+PMID: 31683121 [Indexed for MEDLINE]
+
+
+6. Arch Toxicol. 2017 Feb;91(2):549-599. doi: 10.1007/s00204-016-1849-x. Epub 2016 
+Oct 8.
+
+Pesticides: an update of human exposure and toxicity.
+
+Mostafalou S(1), Abdollahi M(2)(3)(4).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, School of Pharmacy, Ardabil 
+University of Medical Sciences, Ardabil, Iran.
+(2)Department of Toxicology and Pharmacology, Faculty of Pharmacy, and 
+Pharmaceutical Sciences Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran. Mohammad@TUMS.Ac.Ir.
+(3)Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+Clinical Sciences Institute, Tehran University of Medical Sciences, Tehran, 
+Iran. Mohammad@TUMS.Ac.Ir.
+(4)Toxicology Interest Group, Universal Scientific Education and Research 
+Network, Tehran University of Medical Sciences, Tehran, Iran. 
+Mohammad@TUMS.Ac.Ir.
+
+Comment in
+    Arch Toxicol. 2017 Feb;91(2):601-602.
+
+Pesticides are a family of compounds which have brought many benefits to mankind 
+in the agricultural, industrial, and health areas, but their toxicities in both 
+humans and animals have always been a concern. Regardless of acute poisonings 
+which are common for some classes of pesticides like organophosphoruses, the 
+association of chronic and sub-lethal exposure to pesticides with a prevalence 
+of some persistent diseases is going to be a phenomenon to which global 
+attention has been attracted. In this review, incidence of various malignant, 
+neurodegenerative, respiratory, reproductive, developmental, and metabolic 
+diseases in relation to different routes of human exposure to pesticides such as 
+occupational, environmental, residential, parental, maternal, and paternal has 
+been systematically criticized in different categories of pesticide toxicities 
+like carcinogenicity, neurotoxicity, pulmonotoxicity, reproductive toxicity, 
+developmental toxicity, and metabolic toxicity. A huge body of evidence exists 
+on the possible role of pesticide exposures in the elevated incidence of human 
+diseases such as cancers, Alzheimer, Parkinson, amyotrophic lateral sclerosis, 
+asthma, bronchitis, infertility, birth defects, attention deficit hyperactivity 
+disorder, autism, diabetes, and obesity. Most of the disorders are induced by 
+insecticides and herbicides most notably organophosphorus, organochlorines, 
+phenoxyacetic acids, and triazine compounds.
+
+DOI: 10.1007/s00204-016-1849-x
+PMID: 27722929 [Indexed for MEDLINE]
+
+
+7. Environ Int. 2013 Oct;60:71-80. doi: 10.1016/j.envint.2013.07.019. Epub 2013 Sep 
+6.
+
+A review of airborne polycyclic aromatic hydrocarbons (PAHs) and their human 
+health effects.
+
+Kim KH(1), Jahan SA, Kabir E, Brown RJ.
+
+Author information:
+(1)Department of Environment & Energy, Sejong University, Seoul 143-747, 
+Republic of Korea. Electronic address: khkim@sejong.ac.kr.
+
+Polycyclic aromatic hydrocarbons (PAHs) are a large group of organic compounds 
+comprised of two or more fused benzene rings arranged in various configurations. 
+PAHs are widespread environmental contaminants formed as a result of incomplete 
+combustion of organic materials such as fossil fuels. The occurrence of PAHs in 
+ambient air is an increasing concern because of their carcinogenicity and 
+mutagenicity. Although emissions and allowable concentrations of PAHs in air are 
+now regulated, the health risk posed by PAH exposure suggests a continuing need 
+for their control through air quality management. In light of the environmental 
+significance of PAH exposure, this review offers an overview of PAH properties, 
+fates, transformations, human exposure, and health effects (acute and chronic) 
+associated with their emission to the atmosphere. Biomarkers of PAH exposure and 
+their significance are also discussed.
+
+© 2013.
+
+DOI: 10.1016/j.envint.2013.07.019
+PMID: 24013021 [Indexed for MEDLINE]
+
+
+8. Sci Total Environ. 2018 Dec 15;645:1400-1409. doi: 
+10.1016/j.scitotenv.2018.07.093. Epub 2018 Jul 23.
+
+An overview of phthalate acid ester pollution in China over the last decade: 
+Environmental occurrence and human exposure.
+
+Gao D(1), Li Z(2), Wang H(3), Liang H(2).
+
+Author information:
+(1)State Key Laboratory of Urban Water Resource and Environment, Harbin 
+Institute of Technology, Harbin 150090, China. Electronic address: 
+gaodw@hit.edu.cn.
+(2)State Key Laboratory of Urban Water Resource and Environment, Harbin 
+Institute of Technology, Harbin 150090, China.
+(3)College of Wildlife Resources, Northeast Forestry University, Harbin 150040, 
+China.
+
+The toxicity and bioaccumulation potential of phthalate acid esters (PAEs) make 
+their impact on the environment a matter of considerable concern. Due to China's 
+recent economic development and population growth, it has become one of the 
+largest manufacturers and consumers of PAEs, with an associated contamination 
+threat to several environmental compartments. The aim of this overview is to 
+present a systematic account of PAE occurrence in various environmental media in 
+China in the last decade, including the air, surface water, sediments, soil, 
+sewage, and sludge; human exposure to PAEs is also evaluated. This reveals a 
+location-dependence that can be attributed to regional differences in economic 
+and industrial development as well as specific geographic location. A need for 
+further study into the transportation and transformation behavior of PAEs in 
+different environmental media and into PAE control technologies is identified, 
+as a means of effectively assessing potential ecological and health risks.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2018.07.093
+PMID: 30248862 [Indexed for MEDLINE]
+
+
+9. Environ Pollut. 2019 Oct;253:831-840. doi: 10.1016/j.envpol.2019.07.090. Epub 
+2019 Jul 18.
+
+A review of sources, environmental occurrences and human exposure risks of 
+hexachlorobutadiene and its association with some other chlorinated organics.
+
+Zhang H(1), Shen Y(2), Liu W(2), He Z(2), Fu J(3), Cai Z(4), Jiang G(3).
+
+Author information:
+(1)College of Environment, Zhejiang University of Technology, Hangzhou 310014, 
+China; State Key Laboratory of Environmental and Biological Analysis, Department 
+of Chemistry, Hong Kong Baptist University, Hong Kong, China.
+(2)College of Environment, Zhejiang University of Technology, Hangzhou 310014, 
+China.
+(3)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 
+100085, China.
+(4)State Key Laboratory of Environmental and Biological Analysis, Department of 
+Chemistry, Hong Kong Baptist University, Hong Kong, China. Electronic address: 
+zwcai@hkbu.edu.hk.
+
+Research on hexachlorobutadiene (HCBD) has increased since its listing in the 
+Stockholm Convention on Persistent Organic Pollutants in 2011. However, thorough 
+reports on recent data regarding this topic are lacking. Moreover, potential 
+associations between HCBD and some chlorinated organics have usually been 
+ignored in previous research. In this review, possible formation pathways and 
+sources, current environmental occurrences and human exposure risks of HCBD are 
+discussed, as well as the association with several organochlorine compounds. The 
+results reveal that unintentional production and emission from industrial 
+activities and waste treatments are the main sources of HCBD. Similar precursors 
+are found for HCBD and chlorobenzenes, indicating the presence of common 
+sources. Although recent data indicates that levels of HCBD in the environment 
+are generally low, risks from human exposure to HCBD, together with other 
+pollutants, may be high. More attention in the future needs to be paid to the 
+mixed contamination of HCBD and other pollutants from common sources.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2019.07.090
+PMID: 31344544 [Indexed for MEDLINE]
+
+
+10. Toxicol Lett. 2012 Apr 25;210(2):119-40. doi: 10.1016/j.toxlet.2011.10.021. Epub 
+2011 Oct 31.
+
+Hair analysis for biomonitoring of environmental and occupational exposure to 
+organic pollutants: state of the art, critical review and future needs.
+
+Appenzeller BM(1), Tsatsakis AM.
+
+Author information:
+(1)Laboratory of Analytical Human Biomonitoring - CRP-Sante, Université du 
+Luxembourg, 162A avenue de la Faïencerie, L-1511 Luxembourg. 
+brice.appenzeller@crp-sante.lu
+
+Comment in
+    Toxicol Lett. 2012 Apr 25;210(2):264; author reply 265-6.
+
+This paper presents the current state of the art in human hair analysis for the 
+detection of organic pollutants associated with environmental and occupational 
+exposure. The different chemical classes are reviewed with a special focus set 
+on compounds that were only recently investigated. The importance of methods 
+sensitivity and particularly the influence of this parameter on the results 
+presented in previous publications is highlighted. This report also investigates 
+the relevance of hair analysis as an indicator of subjects' level of exposure 
+and underlines limitations that are still associated with this matrix. This 
+study also presents a critical assessment of some specific aspects presented in 
+the literature as well as future needs to strengthen the position of hair as a 
+relevant biomarker of exposure to be used in epidemiological studies.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.toxlet.2011.10.021
+PMID: 22079616 [Indexed for MEDLINE]

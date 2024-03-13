@@ -1,0 +1,1068 @@
+1. Chemosphere. 2023 Jan;312(Pt 1):137092. doi: 10.1016/j.chemosphere.2022.137092. 
+Epub 2022 Nov 1.
+
+Advanced throughput analytical strategies for the comprehensive HRMS screening 
+of organic micropollutants in eggs of different bird species.
+
+Gkotsis G(1), Nika MC(2), Athanasopoulou AI(1), Vasilatos K(1), Alygizakis N(3), 
+Boschert M(4), Osterauer R(5), Höpker KA(5), Thomaidis NS(6).
+
+Author information:
+(1)National and Kapodistrian University of Athens, Panepistimiopolis Zographou, 
+15771, Athens, Greece.
+(2)National and Kapodistrian University of Athens, Panepistimiopolis Zographou, 
+15771, Athens, Greece. Electronic address: nikamar@chem.uoa.gr.
+(3)National and Kapodistrian University of Athens, Panepistimiopolis Zographou, 
+15771, Athens, Greece; Environmental Institute s.r.o., Okruzna 784/42, 97241, 
+Kos, Slovak Republic.
+(4)Bioplan Bühl, Nelkenstr. 10, 77815 Bühl, Germany.
+(5)State Institute for Environment Baden-Wuerttemberg (LUBW), Griesbachstr. 1, 
+76185 Karlsruhe, Germany.
+(6)National and Kapodistrian University of Athens, Panepistimiopolis Zographou, 
+15771, Athens, Greece. Electronic address: ntho@chem.uoa.gr.
+
+Raptors are ideal indicators for biomonitoring studies using wildlife in order 
+to assess the environmental pollution in the terrestrial ecosystem, since they 
+are placed in the highest trophic position in the food webs and their life 
+expectancy is relatively long. In this study, 26 eggs of 4 bird species 
+(Peregrine falcon, Eurasian curlew, Little owl and Eagle owl) collected in 
+Germany, were investigated for the presence of persistent organic pollutants 
+(POPs) and thousands of contaminants of emerging concern (CECs). Generic sample 
+preparation protocols were followed for the extraction of the analytes and the 
+purification of the extracts, and the samples were analyzed both by liquid (LC) 
+and gas chromatography (GC) coupled to high resolution mass spectrometry (HRMS), 
+for capturing a wide range of organic micropollutants with different 
+physicochemical properties. State-of-the-art screening methodologies were 
+applied in the acquired HRMS data, including wide-scope target analysis of 2448 
+known pollutants and suspect screening of over 65,000 environmentally relevant 
+compounds. Overall, 58 pollutants from different chemical classes, such as plant 
+protection products, per- and polyfluoroalkyl substances and medicinal products, 
+as well as their transformation products, were determined through target 
+analysis. Most of the detected compounds were lipophilic (logP>2), although the 
+presence of (semi)polar contaminants should not be overlooked, underlying the 
+need for holistic analytical approaches in environmental monitoring studies. 
+p,p'-DDE, PCB 153 and PCB138, PFOS and methylparaben were the most frequently 
+detected compounds. 50 additional substances were identified and semi-quantified 
+through suspect screening workflows, including mainly compounds of industrial 
+use with high production volume.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2022.137092
+PMID: 36332731 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Lancet Glob Health. 2022 Oct;10(10):e1395-e1411. doi: 
+10.1016/S2214-109X(22)00332-1.
+
+Mapping development and health effects of cooking with solid fuels in low-income 
+and middle-income countries, 2000-18: a geospatial modelling study.
+
+Local Burden of Disease Household Air Pollution Collaborators.
+
+Collaborators: Frostad JJ, Nguyen QP, Baumann MM, Blacker BF, Marczak LB, 
+Deshpande A, Wiens KE, LeGrand KE, Johnson KB, Abbasi-Kangevari M, Abdoli A, 
+Abolhassani H, Abreu LG, Abrigo MRM, Abu-Rmeileh NM, Adekanmbi V, Agrawal A, 
+Ahmed MB, Al-Aly Z, Alanezi FM, Alcalde-Rabanal JE, Alipour V, Altirkawi KA, 
+Alvis-Guzman N, Alvis-Zakzuk NJ, Amegah AK, Amini S, Amiri F, Amugsi DA, 
+Ancuceanu R, Andrei CL, Andrei T, Antriyandarti E, Anvari D, Arabloo J, 
+Arab-Zozani M, Athari SS, Ausloos M, Ayano G, Aynalem YA, Azari S, Badiye AD, 
+Baig AA, Balakrishnan K, Banach M, Basu S, Bedi N, Bell ML, Bennett DA, 
+Bhattacharyya K, Bhutta ZA, Bibi S, Bohlouli S, Boufous S, Bragazzi NL, 
+Braithwaite D, Burugina Nagaraja S, Butt ZA, Caetano Dos Santos FL, Car J, 
+Cárdenas R, Carvalho F, Castaldelli-Maia JM, Castañeda-Orjuela CA, Cerin E, 
+Chattu SK, Chattu VK, Chaturvedi P, Chaturvedi S, Chen S, Chu DT, Chung SC, 
+Dahlawi SMA, Damiani G, Dandona L, Dandona R, Darwesh AM, Das JK, Dash AP, 
+Dávila-Cervantes CA, De Leo D, De Neve JW, Demissie GD, Denova-Gutiérrez E, Dey 
+S, Dharmaratne SD, Dhimal M, Dhungana GP, Diaz D, Dipeolu IO, Dorostkar F, 
+Doshmangir L, Duraes AR, Edinur HA, Efendi F, El Tantawi M, Eskandarieh S, 
+Fadhil I, Fattahi N, Fauk NK, Fereshtehnejad SM, Folayan MO, Foroutan M, 
+Fukumoto T, Gaidhane AM, Ghafourifard M, Ghashghaee A, Gilani SA, Gill TK, 
+Goulart AC, Goulart BNG, Grada A, Gubari MIM, Guido D, Guo Y, Gupta RD, Gupta R, 
+Gutiérrez RA, Hafezi-Nejad N, Hamadeh RR, Hasaballah AI, Hassanipour S, Hayat K, 
+Heibati B, Heidari-Soureshjani R, Henry NJ, Herteliu C, Hosseinzadeh M, Hsairi 
+M, Hu G, Ibitoye SE, Ilesanmi OS, Ilic IM, Ilic MD, Irvani SSN, Islam SMS, Iwu 
+CCD, Jaafari J, Jakovljevic M, Javaheri T, Jha RP, Ji JS, Jonas JB, Kabir A, 
+Kabir Z, Kalhor R, Kamyari N, Kanchan T, Kapil U, Kapoor N, Kayode GA, Keiyoro 
+PN, Khader YS, Khalid N, Khan EA, Khan M, Khan MN, Khatab K, Khater MM, Khatib 
+MN, Khayamzadeh M, Khubchandani J, Kim GR, Kim YJ, Kimokoti RW, Kisa A, Kisa S, 
+Knibbs LD, Koul PA, Koyanagi A, Krishan K, Kumar GA, Kumar M, Kusuma D, La 
+Vecchia C, Lacey B, Lami FH, Lan Q, Lasrado S, Lauriola P, Lee PH, Lewycka S, Li 
+S, Machado DB, Mahasha PW, Maheri M, Majeed A, Maleki A, Malekzadeh R, Malta DC, 
+Mansouri B, Mansournia MA, Martinez NM, Martini S, Martins-Melo FR, Mayala BK, 
+Mehndiratta MM, Mendoza W, Menezes RG, Mengesha EW, Meretoja TJ, Mestrovic T, 
+Michalek IM, Mirrakhimov EM, Mirzaei M, Mirzaei R, Moazen B, Mohammad Y, 
+Mohammadian-Hafshejani A, Mohammed S, Mokdad AH, Monasta L, Moradi-Lakeh M, 
+Moraga P, Morawska L, Mosapour A, Mouodi S, Mousavi Khaneghah A, Mukhopadhyay S, 
+Munro SB, Murray CJL, Nagarajan AJ, Naghavi M, Nair S, Nangia V, Nascimento BR, 
+Nazari J, Negoi I, Netsere HB, Ngunjiri JW, Nguyen HLT, Noubiap JJ, Oancea B, 
+Ogbo FA, Oh IH, Olagunju AT, Olusanya BO, Olusanya JO, Omar Bali A, Onwujekwe 
+OE, Otstavnov N, Otstavnov SS, Owolabi MO, P A M, Pandey A, Park EC, Park EK, 
+Patel SK, Pham HQ, Pilgrim T, Pirsaheb M, Pokhrel KN, Postma MJ, Quazi Syed Z, 
+Rabiee N, Radfar A, Rahim F, Rahman MHU, Rahman MA, Rahmani AM, Ranabhat CL, Rao 
+SJ, Rasella D, Rastogi P, Rath GK, Rawaf DL, Rawaf S, Rawal L, Rawassizadeh R, 
+Renzaho AMN, Reshmi B, Rezaei N, Rezaei N, Rezapour A, Rickard J, Roever L, 
+Ronfani L, Rostamian M, Rubagotti E, Rwegerera GM, Saddik B, Sadeghi E, Saeedi 
+Moghaddam S, Sagar R, Sahebkar A, Sahiledengle B, Salem MR, Samy AM, 
+Santric-Milicevic MM, Saraswathy SYI, Sathian B, Sathish T, Schwebel DC, 
+Sepanlou SG, Shahabi S, Shaheen AA, Shahid I, Shaikh MA, Shalash AS, 
+Shams-Beyranvand M, Shannawaz M, Sharafi K, Sheikh A, Sheikhbahaei S, Shetty RS, 
+Shiferaw WS, Shigematsu M, Shin JI, Shivakumar KM, Siabani S, Siddiqi TJ, Singh 
+BB, Singh JA, Sintayehu Y, Sorrie MB, Soyiri IN, Spurlock EE, Sreeramareddy CT, 
+Stockfelt L, Sufiyan MB, Suliankatchi Abdulkader R, Tabarés-Seisdedos R, Tabuchi 
+T, Taherkhani A, Temsah MH, Thankappan KR, Tovani-Palone MR, Traini E, Ullah S, 
+Unnikrishnan B, Upadhyay E, Valadan Tahbaz S, Varughese S, Violante FS, Vo B, Vu 
+GT, Waheed Y, Wang YP, Welgan CA, Werdecker A, Yahyazadeh Jabbari SH, Yaya S, 
+Yazdi-Feyzabadi V, Yilma MT, Yonemoto N, Younis MZ, Yousefinezhadi T, Yu C, Yu 
+Y, Zaman SB, Zhang Y, Zhang ZJ, Brauer M, Hay SI, Reiner RC Jr.
+
+Comment in
+    Lancet Glob Health. 2022 Oct;10(10):e1361-e1362.
+
+BACKGROUND: More than 3 billion people do not have access to clean energy and 
+primarily use solid fuels to cook. Use of solid fuels generates household air 
+pollution, which was associated with more than 2 million deaths in 2019. 
+Although local patterns in cooking vary systematically, subnational trends in 
+use of solid fuels have yet to be comprehensively analysed. We estimated the 
+prevalence of solid-fuel use with high spatial resolution to explore subnational 
+inequalities, assess local progress, and assess the effects on health in 
+low-income and middle-income countries (LMICs) without universal access to clean 
+fuels.
+METHODS: We did a geospatial modelling study to map the prevalence of solid-fuel 
+use for cooking at a 5 km × 5 km resolution in 98 LMICs based on 2·1 million 
+household observations of the primary cooking fuel used from 663 
+population-based household surveys over the years 2000 to 2018. We use observed 
+temporal patterns to forecast household air pollution in 2030 and to assess the 
+probability of attaining the Sustainable Development Goal (SDG) target indicator 
+for clean cooking. We aligned our estimates of household air pollution to 
+geospatial estimates of ambient air pollution to establish the risk transition 
+occurring in LMICs. Finally, we quantified the effect of residual primary 
+solid-fuel use for cooking on child health by doing a counterfactual risk 
+assessment to estimate the proportion of deaths from lower respiratory tract 
+infections in children younger than 5 years that could be associated with 
+household air pollution.
+FINDINGS: Although primary reliance on solid-fuel use for cooking has declined 
+globally, it remains widespread. 593 million people live in districts where the 
+prevalence of solid-fuel use for cooking exceeds 95%. 66% of people in LMICs 
+live in districts that are not on track to meet the SDG target for universal 
+access to clean energy by 2030. Household air pollution continues to be a major 
+contributor to particulate exposure in LMICs, and rising ambient air pollution 
+is undermining potential gains from reductions in the prevalence of solid-fuel 
+use for cooking in many countries. We estimated that, in 2018, 205 000 (95% 
+uncertainty interval 147 000-257 000) children younger than 5 years died from 
+lower respiratory tract infections that could be attributed to household air 
+pollution.
+INTERPRETATION: Efforts to accelerate the adoption of clean cooking fuels need 
+to be substantially increased and recalibrated to account for subnational 
+inequalities, because there are substantial opportunities to improve air quality 
+and avert child mortality associated with household air pollution.
+FUNDING: Bill & Melinda Gates Foundation.
+
+Copyright © 2022 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S2214-109X(22)00332-1
+PMCID: PMC9638039
+PMID: 36113526 [Indexed for MEDLINE]
+
+Conflict of interest statement: Affiliations Institute for Health Metrics and 
+Evaluation (J J Frostad MPH, Q P Nguyen BS, M M Baumann BS, B F Blacker MPH, L B 
+Marczak PhD, K E LeGrand MPH, K B Johnson MS, Prof L Dandona MD, Prof R Dandona 
+PhD, Prof S D Dharmaratne MD, N M Martinez MPSA, B K Mayala PhD, T Mestrovic 
+PhD, A H Mokdad PhD, Prof C J L Murray DPhil, Prof M Naghavi PhD, E E Spurlock 
+MPH, C A Welgan BS, Prof M Brauer DSc, Prof S I Hay FMedSci, R C Reiner Jr PhD), 
+Department of Health Metrics Sciences, School of Medicine (Prof R Dandona, Prof 
+S D Dharmaratne, A H Mokdad, Prof C J L Murray, Prof M Naghavi, Prof S I Hay, R 
+C Reiner Jr), University of Washington, Seattle, WA, USA; Department of 
+Epidemiology, Emory University, Atlanta, GA, USA (A Deshpande MPH); Department 
+of Epidemiology (K E Wiens PhD), Department of Radiology and Radiological 
+Science (N Hafezi-Nejad MD, S Sheikhbahaei MD), Johns Hopkins University, 
+Baltimore, MD, USA; Social Determinants of Health Research Center (M 
+Abbasi-Kangevari MD), Injury Prevention and Safety Promotion Research Center (T 
+Yousefinezhadi PhD), Shahid Beheshti University of Medical Sciences, Tehran, 
+Iran (M Khayamzadeh MD); Zoonoses Research Center, Jahrom University of Medical 
+Sciences, Jahrom, Iran (A Abdoli PhD); Research Center for Immunodeficiencies (H 
+Abolhassani PhD, Prof N Rezaei PhD), Multiple Sclerosis Research Center (S 
+Eskandarieh PhD), School of Medicine (N Hafezi-Nejad MD), Department of 
+Environmental Health Engineering (Prof A Maleki PhD), Digestive Diseases 
+Research Institute (Prof R Malekzadeh MD, S G Sepanlou MD), Department of 
+Epidemiology and Biostatistics (M Mansournia PhD), Water Quality Research Center 
+(R Mirzaei PhD), Metabolomics and Genomics Research Center (F Rahim PhD), 
+Non-communicable Diseases Research Center (N Rezaei PhD, S Saeedi Moghaddam 
+MSc), Endocrinology and Metabolism Research Institute (N Rezaei PhD), Tehran 
+University of Medical Sciences, Tehran, Iran; Department of Biosciences and 
+Nutrition, Karolinska University Hospital, Huddinge, Sweden (H Abolhassani PhD); 
+Department of Pediatric Dentistry (Prof L G Abreu PhD), Department of Maternal 
+and Child Nursing and Public Health (Prof D C Malta PhD), Department of Clinical 
+Medicine (Prof B R Nascimento PhD), Clinical Hospital (Prof B R Nascimento PhD), 
+Federal University of Minas Gerais, Belo Horizonte, Brazil; Department of 
+Research, Philippine Institute for Development Studies, Quezon City, Philippines 
+(M R M Abrigo PhD); Institute of Community and Public Health, Birzeit 
+University, Ramallah, Palestine (Prof N M Abu-Rmeileh PhD); Department of 
+Obstetrics & Gynecology, University of Texas, Galveston, TX, USA (V Adekanmbi 
+PhD); Trivedi School of Biosciences, Ashoka University, Sonipat, India (Prof A 
+Agrawal PhD); Section of General Internal Medicine, Baylor College of Medicine, 
+Houston, TX, USA (Prof A Agrawal); Department of Epidemiology, Jimma University, 
+Jimma, Ethiopia (M B Ahmed MPH); Australian Center for Precision Health, 
+University of South Australia, Adelaide, SA, Australia (M B Ahmed); John T 
+Milliken Department of Internal Medicine, Washington University in St Louis, St 
+Louis, MO, USA (Z Al-Aly MD); Clinical Epidemiology Center, US Department of 
+Veterans Affairs, St Louis, MO, USA (Z Al-Aly); Environmental Health Department 
+(S M A Dahlawi PhD), Forensic Medicine Division (Prof R G Menezes MD), Imam 
+Abdulrahman Bin Faisal University, Dammam, Saudi Arabia (F M Alanezi PhD); 
+Center for Health Systems Research (J E Alcalde-Rabanal PhD), Center for 
+Nutrition and Health Research (E Denova-Gutiérrez DSc), National Institute of 
+Public Health, Cuernavaca, Mexico; Health Management and Economics Research 
+Center (V Alipour PhD, J Arabloo PhD, A Rezapour PhD), Department of Health 
+Economics (V Alipour), Hospital Management Research Center (S Azari PhD), 
+Department of Medical Laboratory Sciences (F Dorostkar PhD), Minimally Invasive 
+Surgery Research Center (A Kabir MD), Comprehensive Research Laboratory (R 
+Mirzaei PhD), Preventive Medicine and Public Health Research Center (M 
+Moradi-Lakeh MD), Iran University of Medical Sciences, Tehran, Iran; Pediatric 
+Intensive Care Unit (K A Altirkawi MD, M Temsah MD), Internal Medicine 
+Department (Y Mohammad MD), King Saud University, Riyadh, Saudi Arabia; Research 
+Group in Hospital Management and Health Policies (Prof N Alvis-Guzman PhD), 
+Department of Economic Sciences (N J Alvis-Zakzuk MSc), Universidad de la Costa 
+(University of the Coast), Barranquilla, Colombia; Research Group in Health 
+Economics, University of Cartagena, Cartagena, Colombia (Prof N Alvis-Guzman 
+PhD); National Health Observatory (N J Alvis-Zakzuk MSc), Colombian National 
+Health Observatory (C A Castañeda-Orjuela MD), National Institute of Health, 
+Bogota, Colombia; Department of Biomedical Science, University of Cape Coast, 
+Cape Coast, Ghana (A K Amegah PhD); Department of Health Services Management, 
+Khomein University of Medical Sciences, Khomein, Iran (S Amini PhD); Department 
+of Radiology and Nuclear Medicine (F Amiri MSc), Research Center for 
+Environmental Determinants of Health (N Fattahi PhD, Prof M Pirsaheb PhD, Prof E 
+Sadeghi PhD, K Sharafi PhD), Substance Abuse Prevention Research Center (B 
+Mansouri PhD), Department of Rehabilitation and Sports Medicine (M Mirzaei MSc), 
+Department of Health Education and Health Promotion (S Siabani PhD), Kermanshah 
+University of Medical Sciences, Kermanshah, Iran; Maternal and Child Wellbeing, 
+African Population and Health Research Center, Nairobi, Kenya (D A Amugsi PhD); 
+Department of Pharmacy (Prof R Ancuceanu PhD), Department of Cardiology (C 
+Andrei PhD), Department of General Surgery (I Negoi PhD), Carol Davila 
+University of Medicine and Pharmacy, Bucharest, Romania; Department of 
+Statistics and Econometrics (Prof T Andrei PhD, Prof M Ausloos PhD, Prof C 
+Herteliu PhD), Bucharest University of Economic Studies, Bucharest, Romania; 
+Agribusiness Study Program, Sebelas Maret University, Surakarta, Indonesia (E 
+Antriyandarti DrAgrSc); Department of Parasitology, Mazandaran University of 
+Medical Sciences, Sari, Iran (D Anvari PhD); Department of Parasitology, 
+Iranshahr University of Medical Sciences, Iranshahr, Iran (D Anvari); Social 
+Determinants of Health Research Center, Birjand University of Medical Sciences, 
+Birjand, Iran (M Arab-Zozani PhD); Department of Immunology, Zanjan University 
+of Medical Sciences, Zanjan, Iran (S Athari PhD); School of Business (Prof M 
+Ausloos PhD), Department of Health Sciences (P H Lee PhD), University of 
+Leicester, Leicester, UK; School of Indigenous Studies, University of Western 
+Australia, Perth, WA, Australia (G Ayano MSc); School of Public Health, Curtin 
+University, Perth, WA, Australia (G Ayano); Department of Nursing, Debre Berhan 
+University, Debre Berhan, Ethiopia (Y A Aynalem MSc, W S Shiferaw MSc); 
+Department of Forensic Science, Government Institute of Forensic Science, 
+Nagpur, India (A D Badiye MSc, N Kapoor MSc); Unit of Biochemistry (A A Baig 
+PhD), Universiti Sultan Zainal Abidin (Sultan Zainal Abidin University), Kuala 
+Terengganu, Malaysia; Department of Environmental Health Engineering, Sri 
+Ramachandra Medical College and Research Institute, Chennai, India (Prof K 
+Balakrishnan PhD); Department of Hypertension, Medical University of Lodz, Lodz, 
+Poland (Prof M Banach PhD); Polish Mothers’ Memorial Hospital Research 
+Institute, Lodz, Poland (Prof M Banach); Center for Primary Care (S Basu PhD), 
+Division of General Internal Medicine (Prof A Sheikh MD), Harvard University, 
+Boston, MA, USA; School of Public Health (S Basu PhD), Department of Primary 
+Care and Public Health (J Car PhD, Prof A Majeed MD, Prof S Rawaf MD), Imperial 
+College Business School (D Kusuma DSc), WHO Collaborating Centre for Public 
+Health Education and Training (D L Rawaf MD), Imperial College London, London, 
+UK; School of Public Health, Dr D Y Patil University, Mumbai, India (Prof N Bedi 
+MD); Department of Epidemiology (M Khan MD), Jazan University, Jazan, Saudi 
+Arabia (Prof N Bedi MD); School of the Environment (Prof M L Bell PhD), Yale 
+School of Public Health—Social and Behavioral Sciences (E E Spurlock MPH), Yale 
+University, New Haven, CT, USA; Nuffield Department of Population Health (D A 
+Bennett PhD, B Lacey PhD), Nuffield Department of Clinical Medicine (N J Henry 
+BS), Centre for Tropical Medicine and Global Health (S Lewycka PhD), The George 
+Institute for Global Health (Prof S Yaya PhD), University of Oxford, Oxford, UK; 
+Department of Statistical and Computational Genomics, National Institute of 
+Biomedical Genomics, Kalyani, India (K Bhattacharyya MSc); Department of 
+Statistics, University of Calcutta, Kolkata, India (K Bhattacharyya); Centre for 
+Global Child Health, University of Toronto, Toronto, ON, Canada (Prof Z A Bhutta 
+PhD); Centre of Excellence in Women & Child Health (Prof Z A Bhutta), Division 
+of Women and Child Health (J K Das MD), Aga Khan University, Karachi, Pakistan; 
+Institute of Soil and Environmental Sciences, University of Agriculture, 
+Faisalabad, Faisalabad, Pakistan (S Bibi PhD, S Ullah PhD); Department of 
+Veterinary Medicine, Islamic Azad University, Kermanshah, Iran (S Bohlouli PhD); 
+Transport and Road Safety Research Centre, University of New South Wales, 
+Sydney, NSW, Australia (S Boufous PhD); University of Genoa, Genoa, Italy (N L 
+Bragazzi PhD); Department of Epidemiology, University of Florida, Gainesville, 
+FL, USA (D Braithwaite PhD); Cancer Population Sciences Program, University of 
+Florida Health Cancer Center, Gainesville, FL, USA (D Braithwaite); Department 
+of Community Medicine, Employee State Insurance Post Graduate Institute of 
+Medical Sciences and Research, Bangalore, India (Prof S Burugina Nagaraja MD); 
+School of Public Health and Health Systems, University of Waterloo, Waterloo, 
+ON, Canada (Z A Butt PhD); Al Shifa School of Public Health, Al Shifa Trust Eye 
+Hospital, Rawalpindi, Pakistan (Z A Butt); Institute of Microengineering, 
+Federal Polytechnic School of Lausanne, Lausanne, Switzerland (F Caetano dos 
+Santos PhD); Centre for Population Health Sciences, Nanyang Technological 
+University, Singapore, Singapore (J Car PhD); Department of Health Care, 
+Metropolitan Autonomous University, Mexico City, Mexico (Prof R Cárdenas DSc); 
+Research Unit on Applied Molecular Biosciences (UCIBIO), University of Porto, 
+Porto, Portugal (Prof F Carvalho PhD); Department of Psychiatry (Prof J 
+Castaldelli-Maia PhD, Y Wang PhD), Center for Clinical and Epidemiological 
+Research (A C Goulart PhD), Department of Internal Medicine (A C Goulart PhD), 
+Department of Pathology and Legal Medicine (M R Tovani-Palone PhD), University 
+of São Paulo, São Paulo, Brazil; Epidemiology and Public Health Evaluation 
+Group, National University of Colombia, Bogota, Colombia (C A Castañeda-Orjuela 
+MD); Mary MacKillop Institute for Health Research, Australian Catholic 
+University, Melbourne, VIC, Australia (Prof E Cerin PhD); School of Public 
+Health, University of Hong Kong, Hong Kong, China (Prof E Cerin); Department of 
+Public Health, Texila American University, Georgetown, Guyana (S Chattu PhD); 
+Department of Community Medicine, Datta Meghe Institute of Medical Sciences, 
+Sawangi, India (V Chattu MD); Saveetha Medical College, Saveetha University, 
+Chennai, India (V Chattu); Center for Cancer Epidemiology, Tata Memorial 
+Hospital, Navi Mumbai, India (Prof P Chaturvedi MD); Department of Head Neck 
+Surgery, Tata Memorial Hospital, Mumbai, India (Prof P Chaturvedi); Department 
+of Research, Dr D Y Patil University, Pune, India (S Chaturvedi PhD); Heidelberg 
+Institute of Global Health, Heidelberg University, Heidelberg, Germany (S Chen 
+DSc, J De Neve MD, B Moazen MSc); Center for Biomedicine and Community Health, 
+VNU-International School, Hanoi, Viet Nam (D Chu PhD); Department of Health 
+Informatics (S Chung PhD), Division of Psychology and Language Sciences (M Kumar 
+PhD), University College London, London, UK; Health Data Research UK, London, UK 
+(S Chung PhD); IRCCS Istituto Ortopedico Galeazzi (G Damiani MD), Department of 
+Clinical Sciences and Community Health (Prof C La Vecchia MD), University of 
+Milan, Milan, Italy; Department of Dermatology, Case Western Reserve University, 
+Cleveland, OH, USA (G Damiani); Department of Research (A Pandey PhD), Public 
+Health Foundation of India, Gurugram, India (Prof L Dandona MD, Prof R Dandona 
+PhD, G Kumar PhD); Indian Council of Medical Research, New Delhi, India (Prof L 
+Dandona MD); Department of Information Technology (A M Darwesh PhD), Department 
+of Computer Science (M Hosseinzadeh PhD), Diplomacy and Public Relations 
+Department (A Omar Bali PhD), University of Human Development, Sulaymaniyah, 
+Iraq; Asian Institute of Public Health University, Bhubaneswar, India (Prof A P 
+Dash DSc); Department of Population and Development, Latin American Faculty of 
+Social Sciences Mexico, Mexico City, Mexico (C A Dávila-Cervantes PhD); 
+Australian Institute for Suicide Research and Prevention, Griffith University, 
+Mount Gravatt, QLD, Australia (Prof D De Leo DSc); Institute of Public health (G 
+D Demissie MPH), School of Nursing (H B Netsere MS), University of Gondar, 
+Gondar, Ethiopia; Centre for Atmospheric Sciences, Indian Institute of 
+Technology Delhi, New Delhi, India (S Dey PhD); Department of Community 
+Medicine, University of Peradeniya, Peradeniya, Sri Lanka (Prof S D Dharmaratne 
+MD); Health Research Section, Nepal Health Research Council, Kathmandu, Nepal (M 
+Dhimal PhD); Department of Microbiology, Far Western University, Mahendranagar, 
+Nepal (G P Dhungana MSc); Center of Complexity Sciences, National Autonomous 
+University of Mexico, Mexico City, Mexico (Prof D Diaz PhD); Faculty of 
+Veterinary Medicine and Zootechnics, Autonomous University of Sinaloa, Culiacán 
+Rosales, Mexico (Prof D Diaz PhD); Health Promotion and Education (I O Dipeolu 
+PhD), Department of Health Promotion and Education (S E Ibitoye MPH), Department 
+of Community Medicine (O S Ilesanmi PhD), Department of Medicine (Prof M O 
+Owolabi DrM), University of Ibadan, Ibadan, Nigeria; Department of Health Policy 
+and Management (L Doshmangir PhD), Department of Medical Surgical Nursing (M 
+Ghafourifard PhD), Tabriz University of Medical Sciences, Tabriz, Iran; School 
+of Medicine (Prof A R Duraes PhD), Institute of Collective Health (Prof D 
+Rasella PhD), Federal University of Bahia, Salvador, Brazil; Department of 
+Internal Medicine (Prof A R Duraes PhD), Escola Bahiana de Medicina e Saúde 
+Pública (Bahiana School of Medicine and Public Health), Salvador, Brazil; School 
+of Health Sciences (H A Edinur PhD), Universiti Sains Malaysia (University of 
+Science Malaysia), Kubang Kerian, Malaysia; Community Health Nursing (F Efendi 
+PhD), Faculty of Public Health (S Martini PhD), Universitas Airlangga (Airlangga 
+University), Surabaya, Indonesia; School of Nursing and Midwifery, La Trobe 
+University, Melbourne, VIC, Australia (F Efendi PhD, M Rahman PhD); Pediatric 
+Dentistry and Dental Public Health Department, Alexandria University, 
+Alexandria, Egypt (Prof M El Tantawi PhD); Division of Non-communicable 
+Diseases, Ministry of Public Health and Population, Dubai, United Arab Emirates 
+(I Fadhil PhD); Torrens University Australia, Adelaide, SA, Australia (N K Fauk 
+MSc); Institute of Resource Governance and Social Change, Kupang, Indonesia (N K 
+Fauk MSc); Department of Neurobiology, Karolinska Institute, Stockholm, Sweden 
+(S Fereshtehnejad PhD); Division of Neurology (S Fereshtehnejad), School of 
+International Development and Global Studies (Prof S Yaya PhD), University of 
+Ottawa, Ottawa, ON, Canada; Department of Child Dental Health, Obafemi Awolowo 
+University, Ile-Ife, Nigeria (Prof M O Folayan FWACS); Department of Medical 
+Parasitology (M Foroutan PhD), Faculty of Medicine (M Foroutan PhD), Department 
+of Biostatistics (N Kamyari PhD), Abadan University of Medical Sciences, Abadan, 
+Iran; Department of Dermatology, Kobe University, Kobe, Japan (T Fukumoto PhD); 
+Department of Community Medicine (Prof A M Gaidhane MD, Prof Z Quazi Syed PhD), 
+Global Evidence Synthesis Initiative (Prof M Khatib PhD), Datta Meghe Institute 
+of Medical Sciences, Wardha, India; School of Public Health (A Ghashghaee BSc), 
+Institute for Prevention of Non-communicable Diseases (R Kalhor PhD), Health 
+Services Management Department (R Kalhor PhD), Qazvin University of Medical 
+Sciences, Qazvin, Iran; Faculty of Allied Health Sciences, University of Lahore, 
+Lahore, Pakistan (Prof S Gilani PhD); Afro-Asian Institute, Lahore, Pakistan 
+(Prof S Gilani); Adelaide Medical School (T K Gill PhD), Centre for Heart Rhythm 
+Disorders (J Noubiap MD), University of Adelaide, Adelaide, SA, Australia; 
+Postgraduate Program in Epidemiology, Federal University of Rio Grande do Sul, 
+Porto Alegre, Brazil (Prof B N G Goulart DSc); Department of Dermatology (A 
+Grada MD), Health Informatic Lab (T Javaheri PhD), Department of Computer 
+Science (R Rawassizadeh PhD), Boston University, Boston, MA, USA; Department of 
+Family and Community Medicine, University Of Sulaimani, Sulaimani, Iraq (M I M 
+Gubari PhD); UO Neurologia, Salute Pubblica e Disabilità, Fondazione IRCCS 
+Istituto Neurologico Carlo Besta (Neurology, Public Health and Disability Unit, 
+Carlo Besta Neurological Institute), Milan, Italy (D Guido PhD); Department of 
+Epidemiology and Preventive Medicine (Prof Y Guo PhD), School of Public Health 
+and Preventive Medicine (S Li PhD), School of Clinical Sciences at Monash Health 
+(S Zaman MPH), Monash University, Melbourne, VIC, Australia; Department of 
+Epidemiology, Binzhou Medical University, Yantai City, China (Prof Y Guo PhD); 
+Department of Epidemiology and Biostatistics, University of South Carolina, 
+Columbia, SC, USA (R Gupta MPH); Centre for Non-communicable Diseases and 
+Nutrition, BRAC University, Dhaka, Bangladesh (R Gupta MPH); Department of 
+Preventive Cardiology, Eternal Heart Care Centre & Research Institute, Jaipur, 
+India (Prof R Gupta MD); Department of Medicine, Mahatma Gandhi University 
+Medical Sciences, Jaipur, India (Prof R Gupta); Department of Epidemiology and 
+Psychosocial Research, Ramón de la Fuente Muñiz National Institute of 
+Psychiatry, Mexico City, Mexico (R A Gutiérrez PhD); Department of Family and 
+Community Medicine, Arabian Gulf University, Manama, Bahrain (Prof R R Hamadeh 
+PhD); Department of Zoology and Entomology, Al Azhar University, Cairo, Egypt (A 
+I Hasaballah PhD); Gastrointestinal and Liver Diseases Research Center (S 
+Hassanipour PhD), Caspian Digestive Disease Research Center (S Hassanipour), 
+Department of Environmental Health Engineering (J Jaafari PhD), Guilan 
+University of Medical Sciences, Rasht, Iran; Institute of Pharmaceutical 
+Sciences, University of Veterinary and Animal Sciences, Lahore, Pakistan (K 
+Hayat MS); Department of Pharmacy Administration and Clinical Pharmacy, Xian 
+Jiaotong University, Xian, China (K Hayat MS); Center for Environmental and 
+Respiratory Health Research, University of Oulu, Oulu, Finland (B Heibati PhD); 
+Department of Nursing (R Heidari-Soureshjani MSc), Department of Clinical 
+Biochemistry (A Mosapour PhD), Tarbiat Modares University, Tehran, Iran; School 
+of Business, London South Bank University, London, UK (Prof C Herteliu PhD); 
+Institute of Research and Development, Duy Tan University, Da Nang, Viet Nam (M 
+Hosseinzadeh PhD); Faculty of Medicine of Tunis, University Tunis El Manar, 
+Tunis, Tunisia (Prof M Hsairi MPH); Department of Epidemiology and Health 
+Statistics, Central South University, Changsha, China (Prof G Hu PhD); 
+Department of Community Medicine (O S Ilesanmi PhD), Department of Medicine 
+(Prof M O Owolabi DrM), University College Hospital, Ibadan, Ibadan, Nigeria; 
+Faculty of Medicine (I M Ilic PhD, Prof M M Santric-Milicevic PhD), School of 
+Public Health and Health Management (Prof M M Santric-Milicevic), University of 
+Belgrade, Belgrade, Serbia; Department of Epidemiology, University of 
+Kragujevac, Kragujevac, Serbia (Prof M D Ilic PhD); Independent Consultant, 
+Tabriz, Iran (S N Irvani MD); Institute for Physical Activity and Nutrition, 
+Deakin University, Burwood, VIC, Australia (S Islam PhD); Sydney Medical School 
+(S Islam PhD), School of Public Health (L D Knibbs PhD), School of Veterinary 
+Science (B B Singh PhD), University of Sydney, Sydney, NSW, Australia; School of 
+Health Systems and Public Health, University of Pretoria, Pretoria, South Africa 
+(C C D Iwu MPH); Institute of Advanced Manufacturing Technologies, Peter the 
+Great St Petersburg Polytechnic University, St Petersburg, Russia (Prof M 
+Jakovljevic PhD); Institute of Comparative Economic Studies, Hosei University, 
+Tokyo, Japan (Prof M Jakovljevic); Department of Community Medicine, Dr Baba 
+Saheb Ambedkar Medical College & Hospital, Delhi, India (R P Jha MSc); 
+Department of Community Medicine, Banaras Hindu University, Varanasi, India (R P 
+Jha); Vanke School of Public Health, Tsinghua University, Beijing, China (J S Ji 
+DSc); Institute of Molecular and Clinical Ophthalmology Basel, Basel, 
+Switzerland (Prof J B Jonas MD); Department of Ophthalmology, Heidelberg 
+University, Mannheim, Germany (Prof J B Jonas MD); School of Public Health, 
+University College Cork, Cork, Ireland (Z Kabir PhD); Department of Forensic 
+Medicine and Toxicology, All India Institute of Medical Sciences, Jodhpur, India 
+(T Kanchan MD); Department of Epidemiology, Biostatistics and Clinical Research 
+(Prof U Kapil MD), Department of Radiation Oncology (Prof G K Rath MD), 
+Department of Psychiatry (Prof R Sagar MD), All India Institute of Medical 
+Sciences, New Delhi, India; International Research Center of Excellence, 
+Institute of Human Virology Nigeria, Abuja, Nigeria (G A Kayode PhD); Julius 
+Centre for Health Sciences and Primary Care (G A Kayode PhD), Institute for Risk 
+Assessment Sciences (E Traini MSc), Utrecht University, Utrecht, Netherlands; 
+Open, Distance and eLearning Campus (Prof P N Keiyoro PhD), Department of 
+Psychiatry (M Kumar PhD), University of Nairobi, Nairobi, Kenya; Department of 
+Public Health, Jordan University of Science and Technology, Irbid, Jordan (Prof 
+Y S Khader PhD); School of Food and Agricultural Sciences, University of 
+Management and Technology, Lahore, Pakistan (N Khalid PhD); Department of 
+Epidemiology and Biostatistics, Health Services Academy, Islamabad, Pakistan (E 
+A Khan MPH); Department of Population Science, Jatiya Kabi Kazi Nazrul Islam 
+University, Mymensingh, Bangladesh (M Khan PhD); Faculty of Health and 
+Wellbeing, Sheffield Hallam University, Sheffield, UK (K Khatab PhD); College of 
+Arts and Sciences, Ohio University, Zanesville, OH, USA (K Khatab); Department 
+of Medical Parasitology (M M Khater MD), Public Health and Community Medicine 
+Department (M R Salem MD), Cairo University, Cairo, Egypt; The Iranian Academy 
+of Medical Sciences, Tehran, Iran (M Khayamzadeh MD); Department of Public 
+Health, New Mexico State University, Las Cruces, NM, USA (Prof J Khubchandani 
+PhD); Institute of Health Services Research (G Kim PhD, Prof E Park PhD), 
+Department of Preventive Medicine (Prof E Park PhD), College of Medicine (Prof J 
+Shin MD), Yonsei University, Seoul, South Korea; School of Traditional Chinese 
+Medicine, Xiamen University Malaysia, Sepang, Malaysia (Y Kim PhD); Department 
+of Nutrition, Simmons University, Boston, MA, USA (R W Kimokoti MD); School of 
+Health Sciences, Kristiania University College, Oslo, Norway (Prof A Kisa PhD); 
+Department of Global Community Health and Behavioral Sciences, Tulane 
+University, New Orleans, LA, USA (Prof A Kisa); Department of Nursing and Health 
+Promotion, Oslo Metropolitan University, Oslo, Norway (S Kisa PhD); Department 
+of Internal and Pulmonary Medicine, Sheri Kashmir Institute of Medical Sciences, 
+Srinagar, India (Prof P A Koul MD); Biomedical Research Networking Center for 
+Mental Health Network, San Juan de Dios Sanitary Park, Sant Boi de Llobregat, 
+Spain (A Koyanagi MD); Catalan Institution for Research and Advanced Studies, 
+Barcelona, Spain (A Koyanagi MD); Department of Anthropology, Panjab University, 
+Chandigarh, India (Prof K Krishan PhD); Faculty of Public Health, University of 
+Indonesia, Depok, Indonesia (D Kusuma DSc); National Institute for Health 
+Research Oxford Biomedical Research Centre, Oxford, UK (B Lacey PhD); Department 
+of Community and Family Medicine, University of Baghdad, Baghdad, Iraq (F H Lami 
+PhD); Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+Rockville, MD, USA (Q Lan PhD); Department of Otorhinolaryngology, Father Muller 
+Medical College, Mangalore, India (S Lasrado MS); International Society Doctors 
+for the Environment, Arezzo, Italy (P Lauriola MD); Oxford University Clinical 
+Research Unit, Wellcome Trust Asia Programme, Hanoi, Viet Nam (S Lewycka PhD); 
+Center for Integration of Data and Health Knowledge (D B Machado PhD), Oswald 
+Cruz Foundation (FIOCRUZ), Salvador, Brazil; Centre for Global Mental Health, 
+London School of Hygiene & Tropical Medicine, London, UK (D B Machado); Grants, 
+Innovation and Product Development Unit, South African Medical Research Council, 
+Cape Town, South Africa (P W Mahasha PhD); Department of Public Health, Urmia 
+University of Medical Science, Urmia, Iran (M Maheri PhD); Environmental Health 
+Research Center, Kurdistan University of Medical Sciences, Sanandaj, Iran (Prof 
+A Maleki PhD); Non-communicable Disease Research Center (Prof R Malekzadeh MD, S 
+G Sepanlou MD), Health Policy Research Center (S Shahabi PhD), Shiraz University 
+of Medical Sciences, Shiraz, Iran; Indonesian Public Health Association, 
+Surabaya, Indonesia (S Martini PhD); Campus Caucaia, Federal Institute of 
+Education, Science and Technology of Ceará, Caucaia, Brazil (F R Martins-Melo 
+PhD); ICF International, Demographic and Health Surveys Program, Rockville, MD, 
+USA (B K Mayala PhD); Department of Neurology, Janakpuri Super Specialty 
+Hospital Society, New Delhi, India (Prof M Mehndiratta MD); Department of 
+Neurology, Govind Ballabh Institute of Medical Education and Research, New 
+Delhi, India (Prof M Mehndiratta); Peru Country Office, United Nations 
+Population Fund, Lima, Peru (W Mendoza MD); Department of Reproductive Health 
+and Population Studies, Bahir Dar University, Bahir Dar, Ethiopia (E W Mengesha 
+MPH); Breast Surgery Unit, Helsinki University Hospital, Helsinki, Finland (T J 
+Meretoja MD); University of Helsinki, Helsinki, Finland (T J Meretoja); 
+University Centre Varazdin, University North, Varazdin, Croatia (T Mestrovic 
+PhD); Woman-Mother-Child Department, Lausanne University Hospital, Lausanne, 
+Switzerland (I Michalek PhD); Internal Medicine Programme, Kyrgyz State Medical 
+Academy, Bishkek, Kyrgyzstan (Prof E M Mirrakhimov PhD); Department of 
+Atherosclerosis and Coronary Heart Disease, National Center of Cardiology and 
+Internal Disease, Bishkek, Kyrgyzstan (Prof E M Mirrakhimov); Institute of 
+Addiction Research, Frankfurt University of Applied Sciences, Frankfurt, Germany 
+(B Moazen MSc); Department of Epidemiology and Biostatistics, Shahrekord 
+University of Medical Sciences, Shahrekord, Iran (A Mohammadian-Hafshejani PhD); 
+Health Systems and Policy Research Unit (S Mohammed PhD), Department of 
+Community Medicine (M B Sufiyan MD), Ahmadu Bello University, Zaria, Nigeria; 
+Department of Health Care Management, Technical University of Berlin, Berlin, 
+Germany (S Mohammed PhD); Clinical Epidemiology and Public Health Research Unit, 
+Burlo Garofolo Institute for Maternal and Child Health, Trieste, Italy (L 
+Monasta DSc, L Ronfani PhD, E Traini MSc); Computer, Electrical, and 
+Mathematical Sciences and Engineering Division, King Abdullah University of 
+Science and Technology, Thuwal, Saudi Arabia (P Moraga PhD); International 
+Laboratory for Air Quality and Health, Queensland University of Technology, 
+Brisbane, QLD, Australia (Prof L Morawska PhD); Department of Clinical 
+Biochemistry (A Mosapour PhD), Social Determinants of Health Research Center (S 
+Mouodi PhD), Babol University of Medical Sciences, Babol, Iran; Department of 
+Fruit and Vegetable Product Technology, Prof Wacław Dąbrowski Institute of 
+Agricultural and Food Biotechnology State Research Institute, Warsaw, Poland 
+(Prof A Mousavi Khaneghah PhD); Department of Endocrinology & Metabolism, 
+Institute of Post-Graduate Medical Education and Research and Seth Sukhlal 
+Karnani Memorial Hospital, Kolkata, India (Prof S Mukhopadhyay MD); Scientific 
+Communications Department, Invitae, Boulder, CO, USA (S B Munro PhD); Research 
+and Analytics Department, Initiative for Financing Health and Human Development, 
+Chennai, India (A J Nagarajan MTech); Department of Research and Analytics, 
+Bioinsilico Technologies, Chennai, India (A J Nagarajan); Department of 
+Pulmonary Medicine, Government Medical College Trivandrum, Trivandrum, India (S 
+Nair MD); Health Action by People, Trivandrum, India (S Nair); Suraj Eye 
+Institute, Nagpur, India (V Nangia MD); Department of Pediatrics, Arak 
+University of Medical Sciences, Arak, Iran (J Nazari MD); Department of General 
+Surgery (I Negoi PhD), Emergency Hospital of Bucharest, Bucharest, Romania; 
+College of Medicine and Health Sciences, Bahir Dar University, Gondar, Ethiopia 
+(H B Netsere MS); Department of Biological Sciences, University of Embu, Embu, 
+Kenya (J W Ngunjiri DrPH); Institute for Global Health Innovations, Duy Tan 
+University, Hanoi, Viet Nam (H L T Nguyen MPH); Administrative and Economic 
+Sciences Department (Prof B Oancea PhD), University of Bucharest, Bucharest, 
+Romania; Translational Health Research Institute, Western Sydney University, 
+Sydney, NSW, Australia (F A Ogbo PhD); Department of Preventive Medicine, Kyung 
+Hee University, Dongdaemun-gu, South Korea (I Oh PhD); Department of Psychiatry 
+and Behavioural Neurosciences (A T Olagunju MD), Population Health Research 
+Institute (T Sathish PhD), McMaster University, Hamilton, ON, Canada; Department 
+of Psychiatry, University of Lagos, Lagos, Nigeria (A T Olagunju MD); Centre for 
+Healthy Start Initiative, Lagos, Nigeria (B O Olusanya PhD, J O Olusanya MBA); 
+Department of Pharmacology and Therapeutics, University of Nigeria Nsukka, 
+Enugu, Nigeria (Prof O E Onwujekwe PhD); Laboratory of Public Health Indicators 
+Analysis and Health Digitalization, Moscow Institute of Physics and Technology, 
+Dolgoprudny, Russia (N Otstavnov BA, S S Otstavnov PhD); Department of Project 
+Management, National Research University Higher School of Economics, Moscow, 
+Russia (S S Otstavnov PhD); Department of Respiratory Medicine, Jagadguru Sri 
+Shivarathreeswara Academy of Health Education and Research, Mysore, India (Prof 
+M P A DNB); Department of Medical Humanities and Social Medicine, Kosin 
+University, Busan, South Korea (Prof E Park PhD); Department of Poverty, Gender 
+and Youth, Population Council, New Delhi, India (S K Patel PhD); Center of 
+Excellence in Behavioral Medicine, Nguyen Tat Thanh University, Ho Chi Minh 
+City, Viet Nam (H Q Pham MD, G T Vu BA); Department of Cardiology, University of 
+Bern, Bern, Switzerland (T Pilgrim MD); HIV and Mental Health Department, 
+Integrated Development Foundation Nepal, Kathmandu, Nepal (K N Pokhrel PhD); 
+University Medical Center Groningen (Prof M J Postma PhD), School of Economics 
+and Business (Prof M J Postma PhD), University of Groningen, Groningen, 
+Netherlands; School of Engineering, Macquarie University, Sydney, NSW, Australia 
+(N Rabiee PhD); Pohang University of Science and Technology, Pohang, South Korea 
+(N Rabiee); College of Medicine, University of Central Florida, Orlando, FL, USA 
+(A Radfar MD); Department of Community Medicine, Maharishi Markandeshwar Medical 
+College & Hospital, Solan, India (M Rahman PhD); School of Nursing and 
+Healthcare Professions, Federation University Australia, Berwick, VIC, Australia 
+(M Rahman); Future Technology Research Center, National Yunlin University of 
+Science and Technology, Yunlin, Taiwan (A Rahmani PhD); Research Department, 
+Policy Research Institute, Kathmandu, Nepal (C L Ranabhat PhD); Health and 
+Public Policy Department, Global Center for Research and Development, Kathmandu, 
+Nepal (C L Ranabhat PhD); Department of Oral Pathology, Sharavathi Dental 
+College and Hospital, Shimogga, India (S Rao MDS); Department of Forensic 
+Medicine and Toxicology (Prof P Rastogi MD), Kasturba Medical College (Prof B 
+Unnikrishnan MD), Manipal Academy of Higher Education, Mangalore, India; 
+University College London Hospitals, London, UK (D L Rawaf MD); Academic Public 
+Health England, Public Health England, London, UK (Prof S Rawaf MD); School of 
+Health, Medical and Applied Sciences, CQ University, Sydney, NSW, Australia (L 
+Rawal PhD); School of Medicine and Translational Health Research Institute, 
+Western Sydney University, Campbelltown, NSW, Australia (Prof A M N Renzaho 
+PhD); Department of Health Information Management (B Reshmi PhD), Department of 
+Community Medicine (R S Shetty MD), Manipal Academy of Higher Education, 
+Manipal, India; Network of Immunity in Infection, Malignancy and Autoimmunity, 
+Universal Scientific Education and Research Network, Tehran, Iran (Prof N Rezaei 
+PhD); Department of Surgery, University of Minnesota, Minneapolis, MN, USA (J 
+Rickard MD); Department of Surgery, University Teaching Hospital of Kigali, 
+Kigali, Rwanda (J Rickard); Department of Clinical Research, Federal University 
+of Uberlândia, Uberlândia, Brazil (L Roever PhD); School of Medicine, Gonabad 
+University of Medical Sciences, Gonabad, Iran (M Rostamian PhD); African Genome 
+Center, Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco (E 
+Rubagotti PhD); Center for Research in Congenital Anomalies and Rare Diseases, 
+ICESI University (Centro de Investigaciones en Anomalías Congénitas y 
+Enfermedades Raras, Universidad Icesi), Cali, Colombia (E Rubagotti); Department 
+of Internal Medicine, University of Botswana, Gaborone, Botswana (G M Rwegerera 
+MD); Sharjah Institute for Medical Research (B Saddik PhD), University of 
+Sharjah, Sharjah, United Arab Emirates; Applied Biomedical Research Center and 
+Biotechnology Research Center, Mashhad University of Medical Sciences, Mashhad, 
+Iran (A Sahebkar PhD); Department of Public Health, Madda Walabu University, 
+Bale Robe, Ethiopia (B Sahiledengle MPH); Department of Entomology (A M Samy 
+PhD), Department of Neurology (Prof A S Shalash PhD), Ain Shams University, 
+Cairo, Egypt; Independent Consultant, Thiruvananthapuram, India (S Y Saraswathy 
+PhD); Geriatric and Long Term Care Department, Hamad Medical Corporation, Doha, 
+Qatar (B Sathian PhD); Faculty of Health & Social Sciences, Bournemouth 
+University, Bournemouth, UK (B Sathian PhD); Department of Psychology (D C 
+Schwebel PhD), School of Medicine (Prof J A Singh MD), University of Alabama at 
+Birmingham, Birmingham, AL, USA; Public Health Division, An-Najah National 
+University, Nablus, Palestine (A A Shaheen PhD); Department of Internal 
+Medicine, Ziauddin University, Karachi, Pakistan (I Shahid MBBS); Independent 
+Consultant, Karachi, Pakistan (M A Shaikh MD); School of Medicine, Alborz 
+University of Medical Sciences, Karaj, Iran (M Shams-Beyranvand MSc); Symbiosis 
+Medical College for Women, Symbiosis International University, Pune, India (M 
+Shannawaz PhD); Centre for Medical Informatics, University of Edinburgh, 
+Edinburgh, UK (Prof A Sheikh MD); National Institute of Infectious Diseases, 
+Tokyo, Japan (M Shigematsu PhD); Department of Public Health Dentistry, Krishna 
+Institute of Medical Sciences Deemed to be University, Karad, India (Prof K M 
+Shivakumar PhD); School of Health, University of Technology Sydney, Sydney, NSW, 
+Australia (S Siabani PhD); Department of Medicine, Dow University of Health 
+Sciences, Karachi, Pakistan (T J Siddiqi MB); School of Public Health & 
+Zoonoses, Guru Angad Dev Veterinary & Animal Sciences University, Ludhiana, 
+India (B B Singh PhD); Medicine Service, US Department of Veterans Affairs, 
+Birmingham, AL, USA (Prof J A Singh MD); Department of Midwifery, Dire Dawa 
+University, Dire Dawa, Ethiopia (Y Sintayehu MSc); Department of Public Health, 
+Arba Minch University, Arba Minch, Ethiopia (M B Sorrie MPH); Hull York Medical 
+School, University of Hull, Hull, UK (I N Soyiri PhD); Division of Community 
+Medicine, International Medical University, Kuala Lumpur, Malaysia (C T 
+Sreeramareddy MD); Occupational and Environmental Medicine Department, 
+University of Gothenburg, Gothenburg, Sweden (L Stockfelt PhD); National 
+Institute of Epidemiology, Indian Council of Medical Research, Chennai, India (R 
+Suliankatchi Abdulkader MD); Department of Medicine, University of Valencia, 
+Valencia, Spain (Prof R Tabarés-Seisdedos PhD); Carlos III Health Institute, 
+Biomedical Research Networking Center for Mental Health Network, Madrid, Spain 
+(Prof R Tabarés-Seisdedos PhD); Cancer Control Center, Osaka International 
+Cancer Institute, Osaka, Japan (T Tabuchi MD); Research Center for Molecular 
+Medicine, Hamadan University of Medical Sciences, Hamadan, Iran (A Taherkhani 
+PhD); Department of Public Health and Community Medicine, Central University of 
+Kerala, Kasaragod, India (Prof K R Thankappan MD); Modestum, London, UK (M R 
+Tovani-Palone PhD); Amity Institute of Biotechnology, Amity University 
+Rajasthan, Jaipur, India (E Upadhyay PhD); Clinical Cancer Research Center, 
+Milad General Hospital, Tehran, Iran (S Valadan Tahbaz PhD, S Yahyazadeh Jabbari 
+MD); Department of Microbiology, Islamic Azad University, Tehran, Tehran, Iran 
+(S Valadan Tahbaz PhD); Department of Nephrology, Christian Medical College and 
+Hospital, Vellore, India (Prof S Varughese FRCP); Department of Medical and 
+Surgical Sciences, University of Bologna, Bologna, Italy (Prof F S Violante MD); 
+Occupational Health Unit, Sant'Orsola Malpighi Hospital, Bologna, Italy (Prof F 
+S Violante); Faculty of Information Technology, HUTECH University, Ho Chi Minh 
+City, Viet Nam (B Vo PhD); Foundation University Medical College, Foundation 
+University Islamabad, Islamabad, Pakistan (Prof Y Waheed PhD); Demographic 
+Change and Aging Research Area, Federal Institute for Population Research, 
+Wiesbaden, Germany (A Werdecker PhD); Health Services Management Research 
+Center, Kerman University of Medical Sciences, Kerman, Iran (V Yazdi-Feyzabadi 
+PhD); Department of Health Management, Policy, and Economics, Kerman University 
+of Medical Sciences, Kerman, Iran (V Yazdi-Feyzabadi); Department of Public 
+Health, Wollega University, Nekemte, Ethiopia (M T Yilma MPH); Department of 
+Neuropsychopharmacology, National Center of Neurology and Psychiatry, Kodaira, 
+Japan (N Yonemoto PhD); Department of Public Health, Juntendo University, Tokyo, 
+Japan (N Yonemoto PhD); Department of Health Policy and Management, Jackson 
+State University, Jackson, MS, USA (Prof M Z Younis PhD); School of Business & 
+Economics, University Putra Maylisia, Kuala Lumpur, Malaysia (Prof M Z Younis 
+PhD); Department of Epidemiology and Biostatistics (Prof C Yu PhD), School of 
+Medicine (Z Zhang PhD), Wuhan University, Wuhan, China; School of Public Health 
+and Management, Hubei University of Medicine, Shiyan, China (Y Yu MS); Maternal 
+and Child Health Division, International Centre for Diarrhoeal Disease Research, 
+Bangladesh, Dhaka, Bangladesh (S Zaman MPH); School of Public Health, Hubei 
+Province Key Laboratory of Occupational Hazard Identification and Control, Wuhan 
+University of Science and Technology, Wuhan, China (Y Zhang PhD); School of 
+Population and Public Health, University of British Columbia, Vancouver, BC, 
+Canada (Prof M Brauer DSc). Declaration of interests R Ancuceanu reports 
+consultancy or speakers’ fees from UCB, Sandoz, Abbvie, Zentiva, Teva, 
+Laropharm, CEGEDIM, Angelini, B Braun, Biessen Pharma, Hofigal, AstraZeneca, and 
+Stadam. M L Bell reports grants or contracts from the US Environmental 
+Protection Agency, National Institutes of Health, High Tide Foundation, Yale 
+Climate Change and Health Center, Robert Wood Johnson Foundation, Environmental 
+Defense Fund, Health Effects Institute and the Wellcome Trust, all as payments 
+to their institution; consulting fees from the Environmental Protection Agency 
+as personal payments for membership on the Clean Air Scientific Advisory 
+Committee; payment or honoraria for lectures, presentations, speakers bureaus, 
+grant reviews, manuscript writing, external advisory committees, or educational 
+events from Boston University, Korea University, the Organization of Teratology 
+Information Specialists, the NIH, Health Canada, PAC-10, UK Research Institute, 
+Harvard University, and the University of Montana; support for attending 
+meetings or travel from Boston University, Harvard University, University of 
+Illinois at Champaign, and the University of Texas; participation on a data 
+safety monitoring board or advisory board with National Academies Panels and 
+Committees; membership of Lancet Countdown, Fifth National Climate Assessment, 
+Johns Hopkins University Deptartment of Environmental Health and Engineering 
+Advisory Board, WHO Global Air Pollution and Health Technical Advisory group, 
+and the US Environmental Protection Agency Clean Air Scientific Advisory Board. 
+J M Castaldelli-Maia reports grants from the French National Institute for 
+Cancer and Pfizer and consulting fees from L’Oreal for participation on 
+international multidisciplinary scientific boards around skin conditions and 
+mental wellness. A Deshpande reports consulting fees from Epidemiology Research 
+& Methods. SMS Islam reports grants from the National Heart Foundation of 
+Australia and from the Australian National Health and Medical Research Council. 
+K Krishan reports non-financial support from UGC Centre of Advanced Study, CAS 
+II, Department of Anthropology, Panjab University, Chandigarh, India. P W 
+Mahasha reports leadership or fiduciary roles or membership in the Federation of 
+Infectious Diseases Societies of Southern Africa, the EU-Africa PerMed 
+Consortium, the South African Society for Biochemistry and Molecular, the 
+International Society for Infectious Diseases, the Global Burden of Disease 
+Collaborator Network, the South African Society of Microbiology, the COVID-19 
+Clinical Research Coalition, the Scholars Academic and Scientific Society, and 
+the South African Council for Natural Scientific Professions. S Mohammed reports 
+support from the Bill & Melinda Gates Foundation and a fellowship grant from the 
+Alexander von Humboldt Foundation. S B Munro reports stock in Invitae and other 
+financial or non-financial interests as an employee of Invitae. T Pilgrim 
+reports grants or contracts from Biotronik, Boston Scientific, and Edwards 
+Lifesciences as personal payments; participation on a data safety monitoring 
+board or advisory board with Highlife SAS on the Clinical Event Adjudication 
+Committee; and other financial and non-financial interests with Boston 
+Scientific and Medtronic for proctoring. M J Postma reports stock or stock 
+options in Health-Ecore (25%) and Pharmacoeconomics Advice Groningen (100%). A 
+Radfar reports financial or non-financial support from Avicenna Medical and 
+Clinical Research Institute. E Upadhyay reports published patents for “a system 
+and method of reusable filters for anti-pollution mask” and “a system and method 
+for electricity generation through crop stubble by using microbial fuel cells”, 
+and filed patents for “a system for disposed personal protection equipment (PPE) 
+into biofuel through pyrolysis and method” and “a novel herbal pharmaceutical 
+aid for formulation of gel and method thereof” and is Joint Secretary of the 
+Indian Meteorological Society, (Jaipur Chapter).
+
+
+3. Int J Mol Sci. 2021 Jan 20;22(3):995. doi: 10.3390/ijms22030995.
+
+Legacy and Emerging Per- and Polyfluoroalkyl Substances: Analytical Techniques, 
+Environmental Fate, and Health Effects.
+
+Brase RA(1)(2), Mullin EJ(1), Spink DC(1)(2).
+
+Author information:
+(1)Laboratory of Organic Analytical Chemistry, Wadsworth Center, New York State 
+Department of Health, Albany, NY 12237, USA.
+(2)Department of Environmental Health Sciences, School of Public Health, 
+University at Albany, State University of New York, Rensselaer, NY 12144, USA.
+
+Due to their unique chemical properties, per- and polyfluoroalkyl substances 
+(PFAS) have been used extensively as industrial surfactants and processing aids. 
+While several types of PFAS have been voluntarily phased out by their 
+manufacturers, these chemicals continue to be of ecological and public health 
+concern due to their persistence in the environment and their presence in living 
+organisms. Moreover, while the compounds referred to as "legacy" PFAS remain in 
+the environment, alternative compounds have emerged as replacements for their 
+legacy predecessors and are now detected in numerous matrices. In this review, 
+we discuss the historical uses of PFAS, recent advances in analytical techniques 
+for analysis of these compounds, and the fate of PFAS in the environment. In 
+addition, we evaluate current biomonitoring studies of human exposure to legacy 
+and emerging PFAS and examine the associations of PFAS exposure with human 
+health impacts, including cancer- and non-cancer-related outcomes. Special focus 
+is given to short-chain perfluoroalkyl acids (PFAAs) and ether-substituted, 
+polyfluoroalkyl alternatives including hexafluoropropylene oxide dimer acid 
+(HFPO-DA; tradename GenX), 4,8-dioxa-3H-perfluorononanoic acid (DONA), and 6:2 
+chlorinated polyfluoroethersulfonic acid (6:2 Cl-PFESA; tradename F-53B).
+
+DOI: 10.3390/ijms22030995
+PMCID: PMC7863963
+PMID: 33498193 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Sci Total Environ. 2022 Apr 20;818:151851. doi: 10.1016/j.scitotenv.2021.151851. 
+Epub 2021 Nov 22.
+
+The development and application of advanced analytical methods in microplastics 
+contamination detection: A critical review.
+
+Ye Y(1), Yu K(2), Zhao Y(3).
+
+Author information:
+(1)College of Mechanical and Electronic Engineering, Northwest A&F University, 
+22 Xinong Road, Yangling, Shaanxi 712100, PR China.
+(2)College of Mechanical and Electronic Engineering, Northwest A&F University, 
+22 Xinong Road, Yangling, Shaanxi 712100, PR China; Key Laboratory of 
+Agricultural Internet of Things, Ministry of Agriculture and Rural Affairs, 
+Yangling, Shaanxi 712100, PR China; Shaanxi Key Laboratory of Agricultural 
+Information Perception and Intelligent Service, Yangling, Shaanxi 712100, PR 
+China.
+(3)College of Mechanical and Electronic Engineering, Northwest A&F University, 
+22 Xinong Road, Yangling, Shaanxi 712100, PR China; Key Laboratory of 
+Agricultural Internet of Things, Ministry of Agriculture and Rural Affairs, 
+Yangling, Shaanxi 712100, PR China; Shaanxi Key Laboratory of Agricultural 
+Information Perception and Intelligent Service, Yangling, Shaanxi 712100, PR 
+China. Electronic address: yrzhao@nwafu.edu.cn.
+
+Microplastics have gradually become emerging environmental contaminants for 
+their extensive distribution, small particle size, and harmful effects on 
+organisms. Therefore, finding accurate, efficient, and rapid analytical methods 
+for detecting microplastics pollution has become an urgent problem. We reviewed 
+the derivation, transport, and classification of microplastics and then 
+highlighted the harmfulness of microplastics which would bring microplastics 
+pollution to the environment and potential damage to organisms. Further, various 
+analytical methods were classified into the thermal analytical method, spectral 
+analytical approach, and other analytical methods based on detection principles. 
+In addition, the application of each analytical method in sea and soil was 
+concluded in detail, and the promising development prospect of each analytical 
+method was discussed. In the end, the chemical analytical method was proposed to 
+explore further in the direction of no sample preparation, nondestructive 
+analysis, low detection limit and it is crucial to establish a unified detection 
+and identification method for microplastics in different environments.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2021.151851
+PMID: 34822881 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors 
+declare that there are no conflict or interests.
+
+
+5. Sci Total Environ. 2020 Jun 20;722:137914. doi: 10.1016/j.scitotenv.2020.137914. 
+Epub 2020 Mar 13.
+
+Recent progresses in analytical GC and LC mass spectrometric based-methods for 
+the detection of emerging chlorinated and brominated contaminants and their 
+transformation products in aquatic environment.
+
+Badea SL(1), Geana EI(2), Niculescu VC(2), Ionete RE(2).
+
+Author information:
+(1)National Research and Development Institute for Cryogenics and Isotopic 
+Technologies, 4th Uzinei Street, 240050 Râmnicu Vâlcea, Romania. Electronic 
+address: silviu.badea@icsi.ro.
+(2)National Research and Development Institute for Cryogenics and Isotopic 
+Technologies, 4th Uzinei Street, 240050 Râmnicu Vâlcea, Romania.
+
+This paper is an overview of screening methods recently developed for emerging 
+halogenated contaminants and their transformation products. The target screening 
+methods are available only for a limited number of emerging pollutants since the 
+reference standards for these compounds are not always available, but a risk 
+assessment of those micropollutants in environment must be performed anyhow. 
+Therefore, the chromatographic techniques hyphenated with high resolution mass 
+spectrometry (HRMS) trend to become indispensable methods for suspect and 
+non-target screening of emerging halogenated contaminants. HRMS is also an 
+effective tool for tentatively identification of the micropollutants' 
+transformation products existing in much lower concentrations. To assess the 
+transformation pathway of halogenated contaminants in environment, the 
+non-target screening methods must be combined with biodegradation lab 
+experiments and also with advanced oxidation and reduction processes that can 
+mimic the transformation on these contaminants in environment. It is expected 
+that in the future, the accurate-mass full-spectra of transformation products 
+recorded by HRMS will be the basic information needed to elucidate the 
+transformation pathways of emerging halogenated contaminants in aquatic 
+environment.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.137914
+PMID: 32208267
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no conflict of interests.
+
+
+6. Anal Chim Acta. 2015 Sep 3;891:15-31. doi: 10.1016/j.aca.2015.05.032. Epub 2015 
+Jun 4.
+
+Analytical methods for human biomonitoring of pesticides. A review.
+
+Yusa V(1), Millet M(2), Coscolla C(3), Roca M(3).
+
+Author information:
+(1)Foundation for the Promotion of the Health and Biomedical Research in the 
+Valencian Region, FISABIO-Public Health, Valencia, 21, Avenida Catalunya, 46020 
+Valencia, Spain; Public Health Laboratory of Valencia, Spain; Analytical 
+Chemistry Department, University of Valencia, Spain. Electronic address: 
+yusa_vic@gva.es.
+(2)Institut de Chimie et Procédés pour l'Energie, l'Environnement et la Santé 
+ICPEES UMR 7515 Groupe de Physico-Chimie de l'Atmosphère, Université de 
+Strasbourg/CNRS, France.
+(3)Foundation for the Promotion of the Health and Biomedical Research in the 
+Valencian Region, FISABIO-Public Health, Valencia, 21, Avenida Catalunya, 46020 
+Valencia, Spain; Public Health Laboratory of Valencia, Spain.
+
+Biomonitoring of both currently-used and banned-persistent pesticides is a very 
+useful tool for assessing human exposure to these chemicals. In this review, we 
+present current approaches and recent advances in the analytical methods for 
+determining the biomarkers of exposure to pesticides in the most commonly used 
+specimens, such as blood, urine, and breast milk, and in emerging non-invasive 
+matrices such as hair and meconium. We critically discuss the main applications 
+for sample treatment, and the instrumental techniques currently used to 
+determine the most relevant pesticide biomarkers. We finally look at the future 
+trends in this field.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aca.2015.05.032
+PMID: 26388361 [Indexed for MEDLINE]
+
+
+7. Environ Sci Technol. 2022 Jun 21;56(12):7426-7447. doi: 10.1021/acs.est.1c08011. 
+Epub 2022 May 18.
+
+Current Methods and Prospects for Analysis and Characterization of Nanomaterials 
+in the Environment.
+
+Jiang C(1), Liu S(1), Zhang T(1), Liu Q(2), Alvarez PJJ(3), Chen W(1).
+
+Author information:
+(1)College of Environmental Science and Engineering, Ministry of Education Key 
+Laboratory of Pollution Processes and Environmental Criteria, Tianjin Key 
+Laboratory of Environmental Remediation and Pollution Control, Nankai 
+University, 38 Tongyan Rd., Tianjin 300350, China.
+(2)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 
+100085, China.
+(3)Department of Civil and Environmental Engineering, Rice University, 6100 Main 
+Street, Houston, Texas 77005, United States.
+
+Analysis and characterization of naturally occurring and engineered 
+nanomaterials in the environment are critical for understanding their 
+environmental behaviors and defining real exposure scenarios for environmental 
+risk assessment. However, this is challenging primarily due to the low 
+concentration, structural heterogeneity, and dynamic transformation of 
+nanomaterials in complex environmental matrices. In this critical review, we 
+first summarize sample pretreatment methods developed for separation and 
+preconcentration of nanomaterials from environmental samples, including natural 
+waters, wastewater, soils, sediments, and biological media. Then, we review the 
+state-of-the-art microscopic, spectroscopic, mass spectrometric, 
+electrochemical, and size-fractionation methods for determination of mass and 
+number abundance, as well as the morphological, compositional, and structural 
+properties of nanomaterials, with discussion on their advantages and 
+limitations. Despite recent advances in detecting and characterizing 
+nanomaterials in the environment, challenges remain to improve the analytical 
+sensitivity and resolution and to expand the method applications. It is 
+important to develop methods for simultaneous determination of multifaceted 
+nanomaterial properties for in situ analysis and characterization of 
+nanomaterials under dynamic environmental conditions and for detection of 
+nanoscale contaminants of emerging concern (e.g., nanoplastics and biological 
+nanoparticles), which will greatly facilitate the standardization of 
+nanomaterial analysis and characterization methods for environmental samples.
+
+DOI: 10.1021/acs.est.1c08011
+PMID: 35584364 [Indexed for MEDLINE]
+
+
+8. Environ Res. 2022 Apr 15;206:112616. doi: 10.1016/j.envres.2021.112616. Epub 
+2021 Dec 23.
+
+Methods for the analysis of endocrine disrupting chemicals in selected 
+environmental matrixes.
+
+Metcalfe CD(1), Bayen S(2), Desrosiers M(3), Muñoz G(4), Sauvé S(4), Yargeau 
+V(2).
+
+Author information:
+(1)Trent University, Peterborough, ON, Canada. Electronic address: 
+cmetcalfe@trentu.ca.
+(2)McGill University, Montréal, QC, Canada.
+(3)Ministère du Développement durable, de l'Environnement et de la Lutte Contre 
+les Changements Climatiques du Québec, Québec City, QC, Canada.
+(4)Université de Montréal, Montréal, QC, Canada.
+
+Endocrine disrupting chemicals (EDCs) are heterogenous in structure, chemical 
+and physical properties, and their capacity to partition into various 
+environmental matrixes. In many cases, these chemicals can disrupt the endocrine 
+systems of vertebrate and invertebrate organisms when present at very low 
+concentrations. Therefore, sensitive and varied analytical methods are required 
+to detect these compounds in the environment. This review summarizes the 
+analytical methods and instruments that are most used to monitor for EDCs in 
+selected environmental matrixes. Only those matrixes for which there is a clear 
+link between exposures and endocrine effects are included in this review. Also 
+discussed are emerging methods for sample preparation and advanced analytical 
+instruments that provide greater selectivity and sensitivity.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.envres.2021.112616
+PMID: 34953884 [Indexed for MEDLINE]
+
+
+9. Micromachines (Basel). 2022 Jul 8;13(7):1083. doi: 10.3390/mi13071083.
+
+Emerging Bioanalytical Devices and Platforms for Rapid Detection of Pathogens in 
+Environmental Samples.
+
+Ngashangva L(1), Hemdan BA(2)(3), El-Liethy MA(3), Bachu V(2), Minteer SD(4), 
+Goswami P(2).
+
+Author information:
+(1)Transdisciplinary Biology, Rajiv Gandhi Centre for Biotechnology (RGCB), 
+Thiruvanthapuram, Kerala 695014, India.
+(2)Department of Biosciences and Bioengineering, Indian Institute of Technology 
+Guwahati, Guwahati, Assam 781039, India.
+(3)Water Pollution Research Department, Environmental and Climate Change 
+Research Institute, National Research Centre, 33 El Buhouth Street, Cairo P.O. 
+Box 12622, Egypt.
+(4)Department of Chemistry, University of Utah, 315 South 1400 East, RM 2020, 
+Salt Lake City, UT 84112, USA.
+
+The development of robust bioanalytical devices and biosensors for infectious 
+pathogens is progressing well with the advent of new materials, concepts, and 
+technology. The progress is also stepping towards developing high throughput 
+screening technologies that can quickly identify, differentiate, and determine 
+the concentration of harmful pathogens, facilitating the decision-making process 
+for their elimination and therapeutic interventions in large-scale operations. 
+Recently, much effort has been focused on upgrading these analytical devices to 
+an intelligent technological platform by integrating them with modern 
+communication systems, such as the internet of things (IoT) and machine learning 
+(ML), to expand their application horizon. This review outlines the recent 
+development and applications of bioanalytical devices and biosensors to detect 
+pathogenic microbes in environmental samples. First, the nature of the recent 
+outbreaks of pathogenic microbes such as foodborne, waterborne, and airborne 
+pathogens and microbial toxins are discussed to understand the severity of the 
+problems. Next, the discussion focuses on the detection systems chronologically, 
+starting with the conventional methods, advanced techniques, and emerging 
+technologies, such as biosensors and other portable devices and detection 
+platforms for pathogens. Finally, the progress on multiplex assays, wearable 
+devices, and integration of smartphone technologies to facilitate pathogen 
+detection systems for wider applications are highlighted.
+
+DOI: 10.3390/mi13071083
+PMCID: PMC9321031
+PMID: 35888900
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+10. Chem Rev. 2021 Oct 13;121(19):11886-11936. doi: 10.1021/acs.chemrev.1c00178. 
+Epub 2021 Aug 26.
+
+Chemical Analysis of Microplastics and Nanoplastics: Challenges, Advanced 
+Methods, and Perspectives.
+
+Ivleva NP(1).
+
+Author information:
+(1)Institute of Hydrochemistry, Chair of Analytical Chemistry and Water 
+Chemistry, Technical University of Munich, Elisabeth-Winterhalter-Weg 6, 81377 
+Munich, Germany.
+
+Microplastics and nanoplastics have become emerging particulate anthropogenic 
+pollutants and rapidly turned into a field of growing scientific and public 
+interest. These tiny plastic particles are found in the environment all around 
+the globe as well as in drinking water and food, raising concerns about their 
+impacts on the environment and human health. To adequately address these issues, 
+reliable information on the ambient concentrations of microplastics and 
+nanoplastics is needed. However, micro- and nanoplastic particles are extremely 
+complex and diverse in terms of their size, shape, density, polymer type, 
+surface properties, etc. While the particle concentrations in different media 
+can vary by up to 10 orders of magnitude, analysis of such complex samples may 
+resemble searching for a needle in a haystack. This highlights the critical 
+importance of appropriate methods for the chemical identification, 
+quantification, and characterization of microplastics and nanoplastics. The 
+present article reviews advanced methods for the representative mass-based and 
+particle-based analysis of microplastics, with a focus on the sensitivity and 
+lower-size limit for detection. The advantages and limitations of the methods, 
+and their complementarity for the comprehensive characterization of 
+microplastics are discussed. A special attention is paid to the approaches for 
+reliable analysis of nanoplastics. Finally, an outlook for establishing 
+harmonized and standardized methods to analyze these challenging contaminants is 
+presented, and perspectives within and beyond this research field are discussed.
+
+DOI: 10.1021/acs.chemrev.1c00178
+PMID: 34436873 [Indexed for MEDLINE]

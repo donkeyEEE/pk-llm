@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2024-03-11 14:06:11",
+        "merged_file": "5_Toxicity/set.csv",
+        "new_literature_count": 10
+    },
+    {
+        "timestamp": "2024-03-11 14:28:08",
+        "merged_file": "5_Toxicity/set.csv",
+        "new_literature_count": 0
+    },
+    {
+        "timestamp": "2024-03-11 14:30:02",
+        "merged_file": "5_Toxicity/set.csv",
+        "new_literature_count": 0
+    }
+]

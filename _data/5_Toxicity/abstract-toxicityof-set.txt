@@ -1,0 +1,523 @@
+1. Mol Aspects Med. 2022 Oct;87:100988. doi: 10.1016/j.mam.2021.100988. Epub 2021 
+Jul 6.
+
+Perinatal effects of persistent organic pollutants on thyroid hormone 
+concentration in placenta and breastmilk.
+
+De Angelis M(1), Schramm KW(2).
+
+Author information:
+(1)Helmholtz Zentrum München-German Research Center for Environmental Health 
+(GmbH), Molecular EXposomics, Ingolstädter Landstr. 1, 85764, Neuherberg, 
+Germany. Electronic address: meri.deangelis@helmholtz-muenchen.de.
+(2)Helmholtz Zentrum München-German Research Center for Environmental Health 
+(GmbH), Molecular EXposomics, Ingolstädter Landstr. 1, 85764, Neuherberg, 
+Germany; Technical University of Munich, Department für Biowissenschaftliche 
+Grundlagen, 85350, Freising, Germany. Electronic address: 
+schramm@helmholtz-muenchen.de.
+
+Thyroid hormones (TH) are known to play a critical role in regulating many 
+biological processes including growth and development, energy homeostasis, 
+thermogenesis, lipolysis and metabolism of cholesterol. Severe TH deficiency 
+especially during fetal development results in cretinism, but can also lead to 
+an imbalance in metabolism with, among others, an alteration in body weight 
+composition. Over the past two decades, increasing evidence has shown that 
+certain persistent organic pollutants (POP) can interfere with the endocrine 
+system. These POP referred to as "endocrine disrupting chemicals" are widely 
+present in the environment and populations are exposed globally. Moreover, 
+epidemiological studies have shown that a particularly sensitive period is the 
+pre- and postnatal time. Indeed, perinatal exposure to such chemicals could lead 
+to the onset diseases in later life. It is known, that, maternal thyroid 
+hormones are transported by the placenta to the fetus from 6 weeks of gestation 
+and it seems that during the first trimester, and part of the second, the fetus 
+is entirely dependent on maternal TH supply for its development. Interferences 
+in the TH-network as a consequence of the exposure to such pollutants could 
+cause variations in TH concentration. Only small changes in maternal thyroid 
+hormone levels in early stages of pregnancy can influence fetal neurological and 
+cardiovascular development, as well as according to recent studies, have effect 
+on childhood body composition. With this review, we will report the most recent 
+and important studies concerning the association between thyroid hormone 
+concentration and POP levels measured during the perinatal period. We will 
+mostly focus on the data recently reported on placenta and breastmilk as main 
+sources for understanding the potential consequences of exposure. The possible 
+link between exposure to pollutants, TH dysregulation and possible adverse 
+outcome will also be briefly discussed. From our literature search, several 
+studies support the hypothesis that pre- and postnatal exposure to different 
+pollutants might play a role in causing variation in thyroid hormone 
+concentration. However, few research papers have so far studied the relationship 
+linking exposure to pollutants, TH concentration and possible health 
+consequences. Therefore, this review highlights the need for further research in 
+this direction.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.mam.2021.100988
+PMID: 34238594 [Indexed for MEDLINE]
+
+
+2. Sci Total Environ. 2022 Aug 1;832:155084. doi: 10.1016/j.scitotenv.2022.155084. 
+Epub 2022 Apr 6.
+
+Persistent organic pollutants in foods, their interplay with gut microbiota and 
+resultant toxicity.
+
+Popli S(1), Badgujar PC(2), Agarwal T(3), Bhushan B(1), Mishra V(4).
+
+Author information:
+(1)Department of Basic and Applied Sciences, National Institute of Food 
+Technology Entrepreneurship and Management, Kundli, Sonepat, Haryana 131 028, 
+India.
+(2)Department of Food Science and Technology, National Institute of Food 
+Technology Entrepreneurship and Management, Kundli, Sonepat, Haryana 131 028, 
+India. Electronic address: prarabdh.badgujar@niftem.ac.in.
+(3)Department of Agriculture and Environmental Sciences, National Institute of 
+Food Technology Entrepreneurship and Management, Kundli, Sonepat, Haryana 131 
+028, India.
+(4)Department of Basic and Applied Sciences, National Institute of Food 
+Technology Entrepreneurship and Management, Kundli, Sonepat, Haryana 131 028, 
+India. Electronic address: vijpaarth@gmail.com.
+
+Persistent Organic Pollutants (POPs) have become immensely prevalent in the 
+environment as a result of their unique chemical properties (persistent, 
+semi-volatile and bioaccumulative nature). Their occurrence in the soil, water 
+and subsequently in food has become a matter of concern. With food being one of 
+the major sources of exposure, the detrimental impact of these chemicals on the 
+gut microbiome is inevitable. The gut microbiome is considered as an important 
+integrant for human health. It participates in various physiological, 
+biochemical and immunological activities; thus, affects the metabolism and 
+physiology of the host. A myriad of studies have corroborated an association 
+between POP-induced gut microbial dysbiosis and prevalence of disorders. For 
+instance, ingestion of polychlorinated biphenyls, polybrominated diphenyl ethers 
+or organochlorine pesticides influenced bile acid metabolism via alteration of 
+bile salt hydrolase activity of Lactobacillus, Clostridium or Bacteroides genus. 
+At the same time, some chemicals such as DDE have the potential to elevate 
+Proteobacteria and Firmicutes/Bacteriodetes ratio influencing their metabolic 
+activity leading to enhanced short-chain fatty acid synthesis, ensuing obesity 
+or a pre-diabetic state. This review highlights the impact of POPs exposure on 
+the gut microbiota composition and metabolic activity, along with an account of 
+its corresponding consequences on the host physiology. The critical role of gut 
+microbiota in impeding the POPs excretion out of the body resulting in their 
+prolonged exposure and consequently, enhanced degree of toxicity is also 
+emphasized.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.155084
+PMID: 35395291 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Authors 
+declare no conflict of interest.
+
+
+3. J Environ Manage. 2019 May 1;237:519-525. doi: 10.1016/j.jenvman.2019.02.102. 
+Epub 2019 Feb 28.
+
+A review of toxicity induced by persistent organic pollutants (POPs) and 
+endocrine-disrupting chemicals (EDCs) in the nematode Caenorhabditis elegans.
+
+Chen H(1), Wang C(2), Li H(3), Ma R(1), Yu Z(1), Li L(1), Xiang M(1), Chen X(1), 
+Hua X(4), Yu Y(5).
+
+Author information:
+(1)State Environmental Protection Key Laboratory of Environmental Pollution 
+Health Risk Assessment, South China Institute of Environmental Sciences, 
+Ministry of Environmental Protection, Guangzhou, 510655, China.
+(2)State Environmental Protection Key Laboratory of Environmental Risk 
+Assessment and Control on Chemical Process, School of Resources and 
+Environmental Engineering, East China University of Science and Technology, 
+Shanghai, 200237, PR China.
+(3)Institute for Environmental Pollution and Health, School of Environmental and 
+Chemical Engineering, Shanghai University, Shanghai, 200444, PR China. 
+Electronic address: huili@ecust.edu.cn.
+(4)State Environmental Protection Key Laboratory of Environmental Pollution 
+Health Risk Assessment, South China Institute of Environmental Sciences, 
+Ministry of Environmental Protection, Guangzhou, 510655, China; School of 
+Environmental and Municipal Engineering, Lanzhou Jiaotong University, Lanzhou, 
+730070, China.
+(5)State Environmental Protection Key Laboratory of Environmental Pollution 
+Health Risk Assessment, South China Institute of Environmental Sciences, 
+Ministry of Environmental Protection, Guangzhou, 510655, China. Electronic 
+address: yuyunjiang@scies.org.
+
+Persistent organic pollutants (POPs) and endocrine disrupting compounds (EDCs) 
+are almost ubiquitous in synthetic and natural sources; however these 
+contaminants adversely impact ecosystems and humans. Owing to their potential 
+toxicity, concerns have been raised about the effects of POPs and EDCs on 
+ecological and human health. Therefore, toxicity evaluation and mechanisms 
+actions of these contaminants are of great interest. The nematode Caenorhabditis 
+elegans (C. elegans), an excellent model animal for environmental toxicology 
+research, has been used widely for toxicity studies of POPs or EDCs from the 
+whole-animal level to the single-cell level. In this review, we have discussed 
+the toxicity of specific POPs or EDCs after acute, chronic, and 
+multigenerational exposure in C. elegans. We have also introduced a discussion 
+of the toxicological mechanisms of these compounds in C. elegans, with respect 
+to oxidative stress, cell apoptosis, and the insulin/IGF-1 signaling pathway. 
+Finally, we raised considered the perspectives and challenges of the toxicity 
+assessments, multigenerational toxicity, and toxicological mechanisms.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jenvman.2019.02.102
+PMID: 30825784 [Indexed for MEDLINE]
+
+
+4. Am J Physiol Endocrinol Metab. 2022 May 1;322(5):E383-E413. doi: 
+10.1152/ajpendo.00358.2021. Epub 2022 Feb 14.
+
+Persistent organic pollutants and β-cell toxicity: a comprehensive review.
+
+Hoyeck MP(1), Matteo G(1)(2)(3), MacFarlane EM(1), Perera I(1), Bruin JE(1).
+
+Author information:
+(1)Department of Biology and Institute of Biochemistry, Carleton University, 
+Ottawa, Ontario, Canada.
+(2)Department of Biology, University of Ottawa, Ottawa, Ontario, Canada.
+(3)Environmental Health Science and Research Bureau, Health Canada, Ottawa, 
+Ontario, Canada.
+
+Persistent organic pollutants (POPs) are a diverse family of contaminants that 
+show widespread global dispersion and bioaccumulation. Humans are continuously 
+exposed to POPs through diet, air particles, and household and commercial 
+products; POPs are consistently detected in human tissues, including the 
+pancreas. Epidemiological studies show a modest but consistent correlation 
+between exposure to POPs and increased diabetes risk. The goal of this review is 
+to provide an overview of epidemiological evidence and an in-depth evaluation of 
+the in vivo and in vitro evidence that POPs cause β-cell toxicity. We review 
+evidence for six classes of POPs: dioxins, polychlorinated biphenyls (PCBs), 
+organochlorine pesticides (OCPs), organophosphate pesticides (OPPs), flame 
+retardants, and per- and polyfluoroalkyl substances (PFAS). The available data 
+provide convincing evidence implicating POPs as a contributing factor driving 
+impaired glucose homeostasis, β-cell dysfunction, and altered metabolic and 
+oxidative stress pathways in islets. These findings support epidemiological data 
+showing that POPs increase diabetes risk and emphasize the need to consider the 
+endocrine pancreas in toxicity assessments. Our review also highlights 
+significant gaps in the literature assessing islet-specific endpoints after both 
+in vivo and in vitro POP exposure. In addition, most rodent studies do not 
+consider the impact of biological sex or secondary metabolic stressors in 
+mediating the effects of POPs on glucose homeostasis and β-cell function. We 
+discuss key gaps and limitations that should be assessed in future studies.
+
+DOI: 10.1152/ajpendo.00358.2021
+PMCID: PMC9394781
+PMID: 35156417 [Indexed for MEDLINE]
+
+Conflict of interest statement: No conflicts of interest, financial or 
+otherwise, are declared by the authors.
+
+
+5. Toxicology. 2023 Aug 1;494:153567. doi: 10.1016/j.tox.2023.153567. Epub 2023 Jun 
+1.
+
+Effect of persistent organic pollutants in patients with ischemic stroke and all 
+stroke: A systematic review and meta-analysis.
+
+Dev P(1), Chakravarty K(2), Pandey M(3), Ranjan R(4), Cyriac M(1), Mishra VN(1), 
+Pathak A(5).
+
+Author information:
+(1)Department of Neurology, Institute of Medical Science, Banaras Hindu 
+University, Varanasi 221005, India.
+(2)Department of Neurology, PGIMER, Chandigarh, india.
+(3)Department of Surgical Oncology, Institute of Medical Science, Banaras Hindu 
+University, Varanasi 221005, India.
+(4)DST-Center for Interdisciplinary Mathematical Sciences, Banaras Hindu 
+University, Varanasi, India.
+(5)Department of Neurology, Institute of Medical Science, Banaras Hindu 
+University, Varanasi 221005, India. Electronic address: 
+abhishekpathakaiims@gmail.com.
+
+The role of environmental contaminants and their association with stroke is 
+still being determined. Association has been shown with air pollution, noise, 
+and water pollution; however, the results are inconsistent across studies. A 
+systematic review and meta-analysis of the effect of persistent organic 
+pollutants (POP) in ischemic stroke patients were conducted; a comprehensive 
+literature search was carried out until 30th June 2021 from different databases. 
+The quality of all the articles which met our inclusion criteria was assessed 
+using Newcastle-Ottawa scaling; five eligible studies were included in our 
+systematic review. The most studied POP in ischemic stroke was polychlorinated 
+biphenyls (PCBs), and they have shown a trend for association with ischemic 
+stroke. The study also revealed that living near a source of POPs contamination 
+constitutes a risk of exposure and an increased risk of ischemic stroke. 
+Although our study provides a strong positive association of POPs with ischemic 
+stroke, more extensive studies must be conducted to prove the association.
+
+Copyright © 2023. Published by Elsevier B.V.
+
+DOI: 10.1016/j.tox.2023.153567
+PMID: 37268249 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+6. Rev Environ Health. 2022 May 5;38(3):401-408. doi: 10.1515/reveh-2021-0105. 
+Print 2023 Sep 26.
+
+Determination of safe levels of persistent organic pollutants in toxicology and 
+epidemiology.
+
+Muir T(1), Michalek JE(2), Palmer RF(3).
+
+Author information:
+(1)Environment Canada, 70 Townsend Ave, Burlington, ON, Canada.
+(2)Department of Population Health Sciences, UT Health San Antonio, San Antonio 
+TX, USA.
+(3)Department of Family and Community Medicine, UT Health San Antonio, San 
+Antonio TX, USA.
+
+We reviewed published manuscripts from toxicology and epidemiology reporting 
+harmful health effects and doses of persistent organic pollutants (POPs), 
+published between 2000 and 2021. We found 42 in vitro, 32 in vivo, and 74 
+epidemiological studies and abstracted the dose associated with harm in a common 
+Molar unit. We hypothesized that the dose associated with harm would vary 
+between animal and human studies. To test this hypothesis, for each of several 
+POPs, we assessed the significance of variation in the dose associated with a 
+harmful effect [categorized as non-thyroid endocrine (NTE), developmental 
+neurotoxicity (DNT), and Thyroid] with study type (in vitro, in vivo, and 
+Epidemiology) using a linear model after adjustment for basis (lipid weight, wet 
+weight). We created a Calculated Safety Factor (CSF) defined as the toxicology 
+dose divided by epidemiology dose needed to exhibit significant harm. 
+Significant differences were found between study types ranging from <1 to 5.0 
+orders of magnitude in the dose associated with harm. Our CSFs in lipid weight 
+varied from 12.4 (95% confidence interval (CI) 3.3, 47) for NTE effects in 
+Epidemiology relative to in vivo studies to 6,244 (95% CI 2510, 15530) for DNT 
+effects in Epidemiology relative to in vitro in wet weight representing 12.4 to 
+6.2 thousand-fold more sensitivity in people relative to animals, and 
+mechanistic models, respectively. In lipid weight, all CSF 95% CI lower bounds 
+across effect categories were less than 6.5. CIs for CSFs ranged from less than 
+one to four orders of magnitude for in vivo, and two to five orders of magnitude 
+for in vitro vs. Epidemiology. A global CSF for all Epidemiology vs. all 
+Toxicology was 104.6 (95% CI 72 to 152), significant at p<0.001.
+
+© 2022 Tom Muir et al., published by De Gruyter, Berlin/Boston.
+
+DOI: 10.1515/reveh-2021-0105
+PMID: 35506713 [Indexed for MEDLINE]
+
+
+7. Rev Environ Health. 2021 Apr 15;37(1):61-70. doi: 10.1515/reveh-2020-0113. Print 
+2022 Mar 28.
+
+Prenatal exposure to persistent organic pollutants as a risk factor of offspring 
+metabolic syndrome development during childhood.
+
+González MC(1).
+
+Author information:
+(1)School of Public Health, University at Albany, Rensselaer, NY, USA.
+
+Persistent Organic Pollutants (POPs) are exogenous, artificially made chemicals 
+that can disrupt the biological system of individuals and animals. POPs 
+encompass a variety of chemicals including, dioxins, organochlorines (OCs), 
+polychlorinated biphenyl (PCBs), and perfluoroalkyl substances (PFASs) that 
+contain a long half-life and highly resistant to biodegradation. These 
+environmental pollutants accumulate over time in adipose tissues of living 
+organisms and alter various insulin function-related genes. Childhood Metabolic 
+Syndrome (MetS) consists of multiple cardiovascular risk factors, insulin 
+function being one of them. Over the years, the incidence of the syndrome has 
+increased dramatically. It is imperative to explore the role of persistent 
+organic pollutants in the development of Childhood Metabolic Syndrome. Some 
+epidemiological studies have reported an association between prenatal exposure 
+to POPs and offspring MetS development throughout childhood. These findings have 
+been replicated in animal studies in which these pollutants exercise negative 
+health outcomes such as obesity and increased waist circumference. This review 
+discusses the role of prenatal exposure to POPs among offspring who develop MetS 
+in childhood, the latest research on the MetS concept, epidemiological and 
+experimental findings on MetS, and the POPs modes of action. This literature 
+review identified consistent research results on this topic. Even though the 
+studies in this review had many strengths, one major weakness was the usage of 
+different combinations of MetS criteria to measure the outcomes. These findings 
+elucidate the urgent need to solidify the pediatric MetS definition. An accurate 
+definition will permit scientists to measure the MetS as a health outcome 
+properly and allow clinicians to diagnose pediatric MetS and provide 
+individualized treatment appropriately.
+
+© 2021 Walter de Gruyter GmbH, Berlin/Boston.
+
+DOI: 10.1515/reveh-2020-0113
+PMID: 33866704 [Indexed for MEDLINE]
+
+
+8. Sci Total Environ. 2021 Jan 20;753:142028. doi: 10.1016/j.scitotenv.2020.142028. 
+Epub 2020 Aug 29.
+
+Levels and profiles of persistent organic pollutants in breast milk in China and 
+their potential health risks to breastfed infants: A review.
+
+Hu L(1), Luo D(1), Wang L(1), Yu M(1), Zhao S(2), Wang Y(3), Mei S(4), Zhang 
+G(5).
+
+Author information:
+(1)State Key Laboratory of Environment Health (Incubation), Key Laboratory of 
+Environment and Health, Ministry of Education, Key Laboratory of Environment and 
+Health (Wuhan), Ministry of Environmental Protection, School of Public Health, 
+Tongji Medical College, Huazhong University of Science and Technology, #13 
+Hangkong Road, Wuhan, Hubei 430030, China.
+(2)State Key Laboratory of Organic Geochemistry, Guangzhou Institute of 
+Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, China.
+(3)State Key Laboratory of Environment Health (Incubation), Key Laboratory of 
+Environment and Health, Ministry of Education, Key Laboratory of Environment and 
+Health (Wuhan), Ministry of Environmental Protection, School of Public Health, 
+Tongji Medical College, Huazhong University of Science and Technology, #13 
+Hangkong Road, Wuhan, Hubei 430030, China; Department of Maternal and Child 
+Health, School of Public Health, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, Hubei, China.
+(4)State Key Laboratory of Environment Health (Incubation), Key Laboratory of 
+Environment and Health, Ministry of Education, Key Laboratory of Environment and 
+Health (Wuhan), Ministry of Environmental Protection, School of Public Health, 
+Tongji Medical College, Huazhong University of Science and Technology, #13 
+Hangkong Road, Wuhan, Hubei 430030, China. Electronic address: 
+surongmei@hust.edu.cn.
+(5)State Key Laboratory of Organic Geochemistry, Guangzhou Institute of 
+Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, China. Electronic 
+address: zhanggan@gig.ac.cn.
+
+Although some persistent organic pollutants (POPs) were prohibited or limited in 
+use several decades ago, they are still frequently detected in the human body. 
+The purpose of this study was to understand the levels and profiles of POPs in 
+breast milk in China and assess their potential health risks among breastfed 
+infants under six months of age. A literature review focused on China was 
+performed for studies published from 2001 to 2020. The POP levels in breast milk 
+along with other important variables were extracted, and then the average 
+individual POP levels in breast milk were estimated. This review summarises the 
+distribution of traditional and new POPs, including polychlorinated biphenyls 
+(PCBs), organochlorine pesticides (OCPs), legacy brominated flame retardants 
+(BFRs), perfluorinated compounds (PFCs), and chlorinated paraffins (CPs) and 
+reported notably high levels of short-chain chlorinated paraffins and 
+1,1-dichloro-2,2-bis (p-chlorophenyl) ethylene (p,p'-DDE) in breast milk. 
+Although the levels of traditional POPs generally declined over time, especially 
+p,p'-DDE and beta-hexachlorocyclohexane (β-HCH), women living in coastal areas, 
+urban areas, and southern China still have a high body burden of certain POPs. 
+In the present study, the estimated daily intake (EDI) of POPs through 
+breastfeeding was used to evaluate the health risk for infants by comparing with 
+acceptable levels. The findings suggested that infants born in coastal areas 
+most likely suffered potential health risk from exposure to DDT, and the health 
+risk of hexachlorobenzene (HCB) in infants in most nationwide regions remains a 
+concern. More importantly, the EDI of PCBs for infants exceeds the safe limit on 
+a national scale. Continuous surveillance of PCBs in breast milk is critical to 
+evaluate the potential health effects on humans.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2020.142028
+PMID: 32906049 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no competing financial interests.
+
+
+9. Environ Int. 2021 Jan;146:106224. doi: 10.1016/j.envint.2020.106224. Epub 2020 
+Nov 1.
+
+A review of the transplacental transfer of persistent halogenated organic 
+pollutants: Transfer characteristics, influential factors, and mechanisms.
+
+Zhang X(1), Cheng X(1), Lei B(2), Zhang G(3), Bi Y(1), Yu Y(4).
+
+Author information:
+(1)School of Environmental and Chemical Engineering, Shanghai University, 
+Shanghai 200444, PR China.
+(2)School of Environmental and Chemical Engineering, Shanghai University, 
+Shanghai 200444, PR China; Guangdong Key Laboratory of Environmental Catalysis 
+and Health Risk Control, Guangzhou Key Laboratory of Environmental Catalysis and 
+Pollution Control, School of Environmental Science and Engineering, Institute of 
+Environmental Health and Pollution Control, Guangdong University of Technology, 
+Guangzhou 510006, PR China.
+(3)Department of Environmental Health, Guangdong Provincial Key Laboratory of 
+Tropical Disease Research, School of Public Health, Southern Medical University, 
+Guangzhou 510515, PR China.
+(4)Guangdong Key Laboratory of Environmental Catalysis and Health Risk Control, 
+Guangzhou Key Laboratory of Environmental Catalysis and Pollution Control, 
+School of Environmental Science and Engineering, Institute of Environmental 
+Health and Pollution Control, Guangdong University of Technology, Guangzhou 
+510006, PR China. Electronic address: yuyingxin@gdut.edu.cn.
+
+Persistent halogenated organic pollutants (HOPs) are a class of toxic chemicals, 
+which may have adverse effects on fetuses via transplacental transfer from their 
+mothers. Here, we review reported internal exposure levels of various HOPs 
+(organochlorinated pesticides, polychlorinated biphenyls, polybrominated 
+diphenyl ethers, short- and medium-chain chlorinated paraffins, and per- and 
+poly-fluoroalkyl substances) in placenta, and both maternal and umbilical cord 
+sera. We also present analyses of the transplacental transfer and placental 
+distribution characteristics of each class of compounds, and discuss effects of 
+several factors on the transfer and accumulation efficiencies of HOPs, as well 
+as the main mechanisms of HOPs' transfer across the placental barrier. Reported 
+compound-specific transplacental transfer efficiencies and distribution 
+efficiencies, expressed as umbilical cord:maternal serum and placental:maternal 
+serum concentration ratios (RCM and RPM, respectively), are summarized. Average 
+published RCM values of the HOPs range from 0.24 to 3.08 (lipid-adjusted) and 
+from 0.04 to 3.1 (based on wet weights), and are highest for 
+perfluoroalkylcarboxylates (PFCAs) and tetrabromobisphenol A. Average published 
+RPM values range from 0.14 to 1.02 (lipid-adjusted) and from 0.30 to 1.4 (based 
+on wet weights). The broad RCM and RPM ranges may reflect effects of various 
+factors, inter alia physicochemical properties of HOPs, metabolic capacities of 
+mothers and fetuses, placental maturity, and differential expression of 
+influx/efflux transporters in the placenta. Generally, HOPs' RCM values decline 
+linearly with molecular size, and are curvilinearly related to solubility. 
+Plasma protein binding affinity and the difference between maternal and fetal 
+metabolic capacities may also affect some HOPs' transfer efficiencies. HOPs' 
+molecular size may be influential. Transplacental transport of HOPs likely 
+occurs mostly through passive diffusion, although influx/efflux transporters 
+expressed on maternal and/or fetal sides of the placenta may also facilitate or 
+hinder their transport. Overall, the review highlights clear gaps in our 
+understanding of mechanisms involved in HOPs' transplacental transport.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.envint.2020.106224
+PMID: 33137703 [Indexed for MEDLINE]
+
+
+10. Environ Pollut. 2021 Jun 15;279:116929. doi: 10.1016/j.envpol.2021.116929. Epub 
+2021 Mar 15.
+
+Epigenetic changes by per- and polyfluoroalkyl substances (PFAS).
+
+Kim S(1), Thapar I(2), Brooks BW(3).
+
+Author information:
+(1)Department of Environmental Science, Baylor University, Waco, TX, 76706, USA; 
+Institute of Biomedical Studies, Baylor University, Waco, TX, 76706, USA. 
+Electronic address: sujin_kim@baylor.edu.
+(2)Department of Environmental Science, Baylor University, Waco, TX, 76706, USA; 
+Honors College, Baylor University, Waco, TX, 76706, USA.
+(3)Department of Environmental Science, Baylor University, Waco, TX, 76706, USA; 
+Institute of Biomedical Studies, Baylor University, Waco, TX, 76706, USA. 
+Electronic address: bryan_brooks@baylor.edu.
+
+Increasing studies are examining per- and polyfluoroalkyl substances (PFAS) 
+induced toxicity and resulting health outcomes, including epigenetic 
+modifications (e.g., DNA methylation, histone modification, microRNA 
+expression). We critically reviewed current evidence from human epidemiological, 
+in vitro, and animal studies, including mammalian and aquatic model organisms. 
+Epidemiological studies identified the associations between perfluorooctane 
+sulfonate (PFOS) or perfluorooctanoic acid (PFOA) exposure and epigenetic 
+changes in both adult populations and birth cohorts. For in vitro studies, 
+various cell types including neuroblasts, preadipocytes, and hepatocytes have 
+been employed to understand epigenetic effects of PFAS. In studies with animal 
+models, effects of early life exposure to PFAS have been examined using rodent 
+models, and aquatic models (e.g., zebrafish) have been more frequently used in 
+recent years. Several studies highlighted oxidative stress as a key mediator 
+between epigenetic modification and health effects. Collectively, previous 
+research clearly suggest involvement of epigenetic mechanisms in PFAS induced 
+toxicity, though these efforts have primarily focused on specific PFASs (i.e. 
+mainly PFOS and PFOA) or endpoints (i.e. cancer). Additional studies are 
+necessary to define specific linkages among epigenetic mechanisms and related 
+biomarkers or phenotypical changes. In addition, future research is also needed 
+for understudied PFAS and complex mixtures. Studies of epigenetic effects 
+elicited by individual PFAS and mixtures are needed within an adverse outcome 
+pathways framework, which will advance an understanding of PFAS risks to public 
+health and the environment, and support efforts to design less hazardous 
+chemicals.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2021.116929
+PMID: 33751946 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

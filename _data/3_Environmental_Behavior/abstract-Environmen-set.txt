@@ -1,0 +1,502 @@
+1. Sci Total Environ. 2022 Jul 20;831:154808. doi: 10.1016/j.scitotenv.2022.154808. 
+Epub 2022 Mar 24.
+
+Persistent organic pollutants in water resources: Fate, occurrence, 
+characterization and risk analysis.
+
+Aravind Kumar J(1), Krithiga T(2), Sathish S(3), Renita AA(4), Prabu D(3), 
+Lokesh S(5), Geetha R(6), Namasivayam SKR(7), Sillanpaa M(8).
+
+Author information:
+(1)Department of Biomass and Energy Conversion, Saveetha School of Engineering, 
+SIMATS, Chennai, 602105, India. Electronic address: arvindhjsbu@gmail.com.
+(2)Department of Chemistry, Sathyabama Institute of Science and Technology, 
+Chennai - 600119, India.
+(3)Department of Chemical Engineering, Sathyabama Institute of Science and 
+Technology, Chennai - 600119, India.
+(4)Department of Chemical Engineering, Sathyabama Institute of Science and 
+Technology, Chennai - 600119, India. Electronic address: reniriana@gmail.com.
+(5)Department of Biomass and Energy Conversion, Saveetha School of Engineering, 
+SIMATS, Chennai, 602105, India.
+(6)Department of Instrumentation and Control Engineering, Saveetha School of 
+Engineering, SIMATS, Chennai, India.
+(7)Division of Research and Innovation, Department of Biotechnology, Saveetha 
+School of Engineering, SIMATS, Chennai, 602105, India.
+(8)Department of Chemical Engineering, School of Mining, Metallurgy and Chemical 
+Engineering, University of Johannesburg, P. O. Box 17011, Doornfontein 2028, 
+South Africa; Department of Applied Physics, Faculty of Science and Technology, 
+Universiti Kebangsaan Malaysia, 43600 Bangi, Selangor, Malaysia; International 
+Research Centre of Nanotechnology for Himalayan Sustainability (IRCNHS), 
+Shoolini University, Solan, 173212, Himachal Pradesh, India.
+
+Persistent organic pollutants (POPs) are organic chemicals that can persist in 
+the environment for a longer period due to their non-biodegradability. The 
+pervasive and bio-accumulative behavior of POPs makes them highly toxic to the 
+environmental species including plants, animals, and humans. The present review 
+specifies the POP along with their fate, persistence, occurrence, and risk 
+analysis towards humans. The different biological POPs degradation methods, 
+especially the microbial degradation using bacteria, fungi, algae, and 
+actinomycetes, and their mechanisms were described. Moreover, the source, 
+transport of POPs to the environmental sources, and the toxic nature of POPs 
+were discussed in detail. Agricultural and industrial activities are 
+distinguished as the primary source of these toxic compounds, which are 
+delivered to air, soil, and water, affecting on the social and economic 
+advancement of society at a worldwide scale. This review also demonstrated the 
+microbial degradation of POPs and outlines the potential for an 
+eco-accommodating and cost-effective approach for the biological remediation of 
+POPs using microbes. The direction for future research in eliminating POPs from 
+the environmental sources through various microbial processes was emphasized.
+
+Copyright © 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2022.154808
+PMID: 35341870 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Ecotoxicol Environ Saf. 2019 Sep 30;180:668-678. doi: 
+10.1016/j.ecoenv.2019.05.060. Epub 2019 May 27.
+
+Persistent organic pollutants in typical lake ecosystems.
+
+Li C(1), Yang L(1), Shi M(2), Liu G(3).
+
+Author information:
+(1)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, 
+100085, China; College of Resources and Environment, University of Chinese 
+Academy of Sciences, Beijing, 100190, PR China.
+(2)Hebei Engineering Research Center for Geographic Information Application, 
+Institute of Geographical Sciences, Hebei Academy of Sciences, Shijiazhuang, 
+050051, China.
+(3)State Key Laboratory of Environmental Chemistry and Ecotoxicology, Research 
+Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing, 
+100085, China; College of Resources and Environment, University of Chinese 
+Academy of Sciences, Beijing, 100190, PR China. Electronic address: 
+grliu@rcees.ac.cn.
+
+Persistent organic pollutants (POPs) are highly toxic organic chemicals. Lakes 
+are one of the main sinks of POPs. POPs can be accumulated in multiple matrices 
+in lake ecosystems and biomagnified through the food web, and thus pose a 
+potential threat not only to lake ecosystems, but also to human health. Given 
+their potential persistent risks, they have received much attention over the 
+past decades. This review comprehensively summarizes the data on the levels and 
+distributions of POPs in selected typical lake ecosystems in China and 
+worldwide, involving water, sediments, organisms, and surrounding soils and 
+atmosphere. It was found that current publications on POPs in Chinese lakes are 
+mainly related to lakes in the developed eastern plain area, with only a few 
+studies concerning the less-developed Qinghai-Tibet Plateau area. Similarly, 
+around the world, there are more research on POPs in developed countries and 
+less in relatively less-developed areas. Moreover, there are significant 
+differences in the levels of POPs in different matrices in different lake 
+ecosystems. Legacy POPs, such as polycyclic aromatic hydrocarbons (PAHs), 
+organochlorine pesticides (OCPs), polychlorinated biphenyls (PCBs), 
+polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/Fs), and 
+polybrominated diphenyl ethers (PBDEs), were commonly detected and reported in 
+different lakes, while emerging POPs like perfluorinated compounds (PFCs), 
+polychlorinated naphthalenes (PCNs), Tetrabromobisphenol A (TBBPA), and 
+hexabromocyclododecane (HCBD) were relatively less detected or reported. A 
+comprehensive summarization on the levels and distributions of traditional and 
+emerging POPs in lake ecosystems could be significant for further understanding 
+the behaviors and risks of POPs in lake ecosystems.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2019.05.060
+PMID: 31146153 [Indexed for MEDLINE]
+
+
+3. Mar Pollut Bull. 2021 Nov;172:112864. doi: 10.1016/j.marpolbul.2021.112864. Epub 
+2021 Sep 2.
+
+Persistent organic pollutants (POPs) in coastal wetlands: A review of their 
+occurrences, toxic effects, and biogeochemical cycling.
+
+Girones L(1), Oliva AL(2), Negrin VL(3), Marcovecchio JE(4), Arias AH(5).
+
+Author information:
+(1)Instituto Argentino de Oceanografía (IADO - CONICET/UNS), Camino La 
+Carrindanga km 7.5, 8000 Bahía Blanca, Argentina. Electronic address: 
+lgirones@iado-conicet.gob.ar.
+(2)Instituto Argentino de Oceanografía (IADO - CONICET/UNS), Camino La 
+Carrindanga km 7.5, 8000 Bahía Blanca, Argentina.
+(3)Instituto Argentino de Oceanografía (IADO - CONICET/UNS), Camino La 
+Carrindanga km 7.5, 8000 Bahía Blanca, Argentina; Departamento de Biología, 
+Bioquímica y Farmacia, Universidad Nacional del Sur, Bahía Blanca, Argentina.
+(4)Instituto Argentino de Oceanografía (IADO - CONICET/UNS), Camino La 
+Carrindanga km 7.5, 8000 Bahía Blanca, Argentina; Universidad Tecnológica 
+Nacional (UTN)-FRBB, Bahía Blanca, Argentina; Universidad FASTA, Mar del Plata, 
+Argentina.
+(5)Instituto Argentino de Oceanografía (IADO - CONICET/UNS), Camino La 
+Carrindanga km 7.5, 8000 Bahía Blanca, Argentina; Departamento de Química, 
+Universidad Nacional del Sur, Bahía Blanca, Argentina.
+
+Coastal wetlands, such as mangroves, seagrass beds, and salt marshes, are highly 
+threatened by increasing anthropic pressures, including chemical pollution. 
+Persistent organic pollutants (POPs) have attracted attention in these 
+particularly vulnerable ecosystems, due to their bioaccumulative, pervasive, and 
+ecotoxic behavior. This article reviews and summarizes available information 
+regarding current levels, biogeochemical cycling, and effects of POPs on coastal 
+wetlands. Sediment POP levels were compared with international quality 
+guidelines, revealing many areas where compounds could cause damage to biota. 
+Despite this, toxicological studies on some coastal wetland plants and 
+microorganisms showed a high tolerance to those levels. These taxonomic groups 
+are likely to play a key role in the cycling of the POPs, with an active role in 
+their accumulation, immobilization, and degradation. Toxicity and biogeochemical 
+processes varied markedly along three main axes; namely species, environmental 
+conditions, and type of pollutant. While more focused research on newly and 
+unintentionally produced POPs is needed, mainly in salt marshes and seagrass 
+beds, with the information available so far, the environmental behavior, spatial 
+distribution, and toxicity level of the studied POPs showed similar patterns 
+across the three studied ecosystems.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.marpolbul.2021.112864
+PMID: 34482253 [Indexed for MEDLINE]
+
+
+4. Sci Total Environ. 2018 Mar 15;618:500-517. doi: 
+10.1016/j.scitotenv.2017.11.052. Epub 2017 Nov 13.
+
+The distribution and trends of persistent organic pollutants and mercury in 
+marine mammals from Canada's Eastern Arctic.
+
+Brown TM(1), Macdonald RW(2), Muir DCG(3), Letcher RJ(4).
+
+Author information:
+(1)Memorial University of Newfoundland, St. John's, Newfoundland A1B 3X9, 
+Canada. Electronic address: tanya_brown@sfu.ca.
+(2)Fisheries, Oceans and the Canadian Coast Guard, Institute of Ocean Sciences, 
+Sidney, British Columbia V8L 4B2, Canada; Centre for Earth Observation Science, 
+Department of Environment and Geography, University of Manitoba, Winnipeg R3T 
+2N2, Canada.
+(3)Environment Canada, Canada Centre for Inland Waters, 867 Lakeshore Road, 
+Burlington, Ontario L7R 4A6, Canada.
+(4)Environment and Climate Change Canada, National Wildlife Research Centre, 
+Carleton University, Raven Road, Ottawa, Ontario K1A 0H3, Canada.
+
+Arctic contaminant research in the marine environment has focused on 
+organohalogen compounds and mercury mainly because they are bioaccumulative, 
+persistent and toxic. This review summarizes and discusses the patterns and 
+trends of persistent organic pollutants (POPs) and mercury in ringed seals (Pusa 
+hispida) and polar bears (Ursus maritimus) in the Eastern Canadian Arctic 
+relative to the rest of the Canadian Arctic. The review provides explanations 
+for these trends and looks at the implications of climate-related changes on 
+contaminants in these marine mammals in a region that has been reviewed little. 
+Presently, the highest levels of total mercury (THg) and the legacy pesticide 
+HCH in ringed seals and polar bears are found in the Western Canadian Arctic 
+relative to other locations. Whereas, highest levels of some legacy 
+contaminants, including ∑PCBs, PCB 153, ∑DDTs, p,p'-DDE, ∑CHLs, ClBz are found 
+in the east (i.e., Ungava Bay and Labrador) and in the Beaufort Sea relative to 
+other locations. The highest levels of recent contaminants, including PBDEs and 
+PFOS are found at lower latitudes. Feeding ecology (e.g., feeding at a higher 
+trophic position) is shaping the elevated levels of THg and some legacy 
+contaminants in the west compared to the east. Spatial and temporal trends for 
+POPs and THg are underpinned by historical loadings of surface ocean reservoirs 
+including the Western Arctic Ocean and the North Atlantic Ocean. Trends set up 
+by the distribution of water masses across the Canadian Arctic Archipelago are 
+then acted upon locally by on-going atmospheric deposition, which is the 
+dominant contributor for more recent contaminants. Warming and continued decline 
+in sea ice are likely to result in further shifts in food web structure, which 
+are likely to increase contaminant burdens in marine mammals. Monitoring of 
+seawater and a range of trophic levels would provide a better basis to inform 
+communities about contaminants in traditionally harvested foods, allow us to 
+understand the causes of contaminant trends in marine ecosystems, and to track 
+environmental response to source controls instituted under international 
+conventions.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2017.11.052
+PMID: 29145101 [Indexed for MEDLINE]
+
+
+5. Environ Pollut. 2018 Jun;237:111-125. doi: 10.1016/j.envpol.2018.01.055. Epub 
+2018 Feb 23.
+
+Bioaccumulation of organic pollutants in Indo-Pacific humpback dolphin: A review 
+on current knowledge and future prospects.
+
+Sanganyado E(1), Rajput IR(1), Liu W(2).
+
+Author information:
+(1)Marine Biology Institute, Shantou University, Shantou, Guangdong Province, 
+China.
+(2)Marine Biology Institute, Shantou University, Shantou, Guangdong Province, 
+China. Electronic address: whliu@stu.edu.cn.
+
+Indo-Pacific humpback dolphin (Sousa chinensis) are chronically exposed to 
+organic pollutants since they inhabit shallow coastal waters that are often 
+impacted by anthropogenic activities. The aim of this review was to evaluate 
+existing knowledge on the occurrence of organic pollutants in Indo-Pacific 
+humpback dolphins, identify knowledge gaps, and offer recommendations for future 
+research directions. We discussed the trends in the bioaccumulation of organic 
+pollutants in Indo-Pacific humpback dolphins focusing on sources, 
+physicochemical properties, and usage patterns. Furthermore, we examined factors 
+that influence bioaccumulation such as gender, age, dietary intake and 
+tissue-specific distribution. Studies on bioaccumulation in Indo-Pacific 
+humpback dolphin remain scarce, despite high concentrations above 13,000 ng/g lw 
+we previously detected for PFOS, ∑PBDE and chlorinated paraffins. The maximum 
+concentration of organochlorines detected was 157,000 ng/g wt. Furthermore, 
+variations in bioaccumulation were shown to be caused by factors such as usage 
+patterns and physicochemical properties of the pollutant. However, restrictions 
+in sampling inhibit investigations on exposure pathway and toxicity of organic 
+pollutants in Indo-Pacific humpback dolphin. We proposed the use of biopsy 
+sampling, predictive bioaccumulation and toxicity modeling, and monitoring other 
+emerging contaminants such as microplastics and pharmaceuticals for future 
+health risk assessment on this critically endangered marine mammal species.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2018.01.055
+PMID: 29477865 [Indexed for MEDLINE]
+
+
+6. Chemosphere. 2014 Aug;108:145-51. doi: 10.1016/j.chemosphere.2014.01.036. Epub 
+2014 Feb 28.
+
+Accumulation of persistent organic pollutants in parasites.
+
+Yen Le TT(1), Rijsdijk L(2), Sures B(3), Hendriks AJ(2).
+
+Author information:
+(1)Department of Environmental Science, Institute for Water and Wetland 
+Research, Radboud University Nijmegen, The Netherlands. Electronic address: 
+YenLe@science.ru.nl.
+(2)Department of Environmental Science, Institute for Water and Wetland 
+Research, Radboud University Nijmegen, The Netherlands.
+(3)Department of Aquatic Ecology and Centre for Water and Environmental Research 
+(ZWU), University of Duisburg Essen, Germany.
+
+Organisms are simultaneously exposed to various stressors, including parasites 
+and pollutants, that may interact with each other. Research on the accumulation 
+of organic compounds in host-parasite systems is scant compared to studies on 
+parasite-metal interactions and mainly focuses on intestinal endoparasites. We 
+reviewed factors that determine the accumulation of persistent organic 
+pollutants (POPs) in host-parasite systems. The wet/dry weight-based 
+concentration of POPs in these parasites is usually lower than that in host 
+tissues because of lower lipid contents in the parasites. However, the 
+fractionation of the pollutants into parasites and their hosts may vary, 
+depending on developmental stages in the life cycle of the parasites. 
+Developmental stages determine the trophic relationship and the taxon of the 
+parasite in the host-parasite systems because of different feeding strategies 
+between the stages. Lipid-corrected concentrations of organic chemicals in the 
+host are usually higher than those in the endoparasites studied. This phenomenon 
+is attributed to a number of physiological and behavioural processes, such as 
+feeding selectivity and strategy and excretion. Moreover, no significant 
+relationship was found between the accumulation factor (i.e. the ratio between 
+the lipid-corrected concentrations in parasites and in their hosts) for 
+polychlorinated biphenyls and either hydrophobicity or molecular size. At the 
+intermediate hydrophobicity, larger and more lipophilic compounds are 
+accumulated at higher levels in both parasites and the host than smaller and 
+less lipophilic compounds. The bioaccumulation of POPs in parasites is affected 
+by some other abiotic, e.g. temperature, and biotic factors, e.g. the number of 
+host species infected by parasites.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chemosphere.2014.01.036
+PMID: 24582601 [Indexed for MEDLINE]
+
+
+7. Rev Environ Contam Toxicol. 2014;227:107-55. doi: 10.1007/978-3-319-01327-5_4.
+
+Bioamplification as a bioaccumulation mechanism for persistent organic 
+pollutants (POPs) in wildlife.
+
+Daley JM(1), Paterson G, Drouillard KG.
+
+Author information:
+(1)Great Lakes Institute for Environmental Research, University of Windsor, 
+Windsor, ON, Canada, N9B 3P4, daleyj@uwindsor.ca.
+
+Persistent organic pollutant bioaccumulation models have generally been 
+formulated to predict bioconcentration and biomagnification. A third 
+bioaccumulation process that can mediate chemical fugacity in an organism is 
+bioamplification.Bioamplification occurs when an organism loses body weight and 
+the chemical partitioning capacity occurs at a rate that is faster than the 
+chemical can be eliminated.Although bioamplification has not been widely 
+recognized as a bioaccumulation process, the potential consequences of this 
+process are significant. Bioamplification causes an increase in chemical 
+fugacity in the animal's tissues and results in there distribution of 
+contaminants from inert storage sites to more toxicologically sensitive tissues. 
+By reviewing laboratory and field studies, we have shown in this paper that 
+bioamplification occurs across taxonomic groups that include, 
+invertebrates,amphibians, fishes, birds, and mammals. Two case studies are 
+presented, and constitute multi-life stage non-steady state bioaccumulation 
+models calibrated for yellow perch and herring gulls. These case studies were 
+used to demonstrate that bioamplification is predicted to occur under realistic 
+scenarios of animal growth and seasonal weight loss. Bioamplification greatly 
+enhances POP concentrations and chemical fugacities during critical 
+physiological and behavioral events in an animal's life history, e.g., embryo 
+development, juvenile stages, metamorphosis, reproduction, migration, 
+overwintering, hibernation, and disease. Consequently,understanding the dynamics 
+of bioamplification, and how different life history scenario scan alter tissue 
+residues, may be helpful and important in assessing wildlife hazards and risks.
+
+DOI: 10.1007/978-3-319-01327-5_4
+PMID: 24158581 [Indexed for MEDLINE]
+
+
+8. Environ Int. 2023 Jan;171:107711. doi: 10.1016/j.envint.2022.107711. Epub 2022 
+Dec 21.
+
+Combined toxicity of micro/nanoplastics loaded with environmental pollutants to 
+organisms and cells: Role, effects, and mechanism.
+
+Sun N(1), Shi H(1), Li X(1), Gao C(1), Liu R(2).
+
+Author information:
+(1)School of Environmental Science and Engineering, Shandong University, 
+China-America CRC for Environment & Health, Shandong Province, 72#, Jimo Binhai 
+Road, Qingdao, Shandong 266237, PR China.
+(2)School of Environmental Science and Engineering, Shandong University, 
+China-America CRC for Environment & Health, Shandong Province, 72#, Jimo Binhai 
+Road, Qingdao, Shandong 266237, PR China. Electronic address: 
+rutaoliu@sdu.edu.cn.
+
+Micro/nanoplastics (MPs/NPs) are ubiquitous in the environment and living 
+organisms have been exposed to these substances for a long time. When MPs/NPs 
+enter different organisms, they transport various pollutants, including heavy 
+metals, persistent organic pollutants, drugs, bacteria, and viruses, from the 
+environment. On this basis, this paper summarizes the combined toxicity induced 
+by MPs/NPs accumulating contaminants from the environment and entering organisms 
+through a systematic review of 162 articles. Moreover, the factors influencing 
+toxic interactions are critically discussed, thus highlighting the dominant role 
+of the relative concentrations of contaminants in the combined toxic effects. 
+Furthermore, for the first time, we describe the threats posed by MPs/NPs 
+combined with other pollutants to human health, as well as their cytotoxic 
+behavior and mechanism. We found that the "Trojan horse" effect of nanoplastics 
+can increase the bioaccessibility of environmental pollutants, thus increasing 
+the carcinogenic risk to humans. Simultaneously, the complex pollutants entering 
+the cells are observed to be constantly dissociated due to the transport of 
+lysosomes. However, current research on the intracellular release of 
+MP/NP-loaded pollutants is relatively poor, which hinders the accurate in vivo 
+toxicity assessment of combined pollutants. Based on the findings of our 
+critical review, we recommend analyzing the toxic effects by clarifying the dose 
+relationship of each component pollutant in cells, which is challenging yet 
+crucial to exploring the toxic mechanism of combined pollution. In the future, 
+our findings can contribute to establishing a system modeling the complete 
+load-translocation toxicological mechanism of MP/NP-based composite pollutants.
+
+Copyright © 2022 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.envint.2022.107711
+PMID: 36566717 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+9. Sci Total Environ. 2016 Dec 15;573:139-154. doi: 
+10.1016/j.scitotenv.2016.08.107. Epub 2016 Aug 23.
+
+A review of current knowledge and future prospects regarding persistent organic 
+pollutants over the Tibetan Plateau.
+
+Wang X(1), Gong P(2), Wang C(3), Ren J(4), Yao T(2).
+
+Author information:
+(1)Key Laboratory of Tibetan Environment Changes and Land Surface Processes, 
+Institute of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), 
+Beijing 100101, China; CAS Center for Excellence in Tibetan Plateau Earth 
+Sciences, Beijing 100101, China. Electronic address: wangxp@itpcas.ac.cn.
+(2)Key Laboratory of Tibetan Environment Changes and Land Surface Processes, 
+Institute of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), 
+Beijing 100101, China; CAS Center for Excellence in Tibetan Plateau Earth 
+Sciences, Beijing 100101, China.
+(3)Key Laboratory of Tibetan Environment Changes and Land Surface Processes, 
+Institute of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), 
+Beijing 100101, China.
+(4)Key Laboratory of Tibetan Environment Changes and Land Surface Processes, 
+Institute of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), 
+Beijing 100101, China; University of Chinese Academy of Sciences, Beijing 
+100049, China.
+
+Since the turn of the century, our understanding of the quantities, transport 
+pathways, and fate of persistent organic pollutants (POPs) over the Tibetan 
+Plateau (TP), the largest and highest plateau on Earth, has greatly enhanced. We 
+begin in this article by reviewing the available literature on the levels of 
+POPs over the TP. In general, the levels of most POPs are similar or lower than 
+values reported for other background regions. However, 
+dichlorodiphenyltrichloroethane (DDT) and hexachlorocyclohexane (HCH) levels in 
+air and soil far exceed those measured in other mountainous areas. The East 
+Asian monsoon, Indian Monsoon and westerly winds are responsible for the 
+long-range atmospheric transport (LRAT) and arrival of POPs over the TP. Surface 
+soil and vegetation act as "final sinks" for DDTs and other high molecular 
+weight POPs. Linked to the continuous use of POPs in surrounding counties, LRAT 
+and "cold trapping" by the TP can happen following emission-transport-deposition 
+events, leading to the enrichment of POPs in the TP environment. Bioaccumulation 
+of DDTs and high chlorinated PCBs have been found in Tibetan terrestrial and 
+aquatic food chains, and newly emerging compounds such as polyfluoroalkyl 
+substances and hexabromocyclododecanes have been widely detected in wild fish 
+species. The corresponding ecological risks should be of great concern. Climate 
+change, such as increased temperatures and changing coverage of snow and 
+glaciers, has the potential to affect the behavior and distribution of POPs. 
+Therefore, long-term monitoring data are required. Ineffective regulation 
+regarding POPs has been reported for countries in South Asia, emissions 
+patterns, the outflow of POPs, and their seasonal and inter-annual variability 
+should therefore be clarified. Estimating the loading of POPs, as well as how 
+they move, within the TP, especially under the impact of glacial melt and global 
+warming, should be a priority.
+
+Copyright Â© 2016. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2016.08.107
+PMID: 27565527 [Indexed for MEDLINE]
+
+
+10. Environ Pollut. 2019 May;248:320-331. doi: 10.1016/j.envpol.2019.02.032. Epub 
+2019 Feb 11.
+
+Environmentally persistent free radicals: Occurrence, formation mechanisms and 
+implications.
+
+Pan B(1), Li H(2), Lang D(1), Xing B(3).
+
+Author information:
+(1)Faculty of Environmental Science & Engineering, Kunming University of Science 
+& Technology, Kunming, 650500, Yunnan, China; Yunnan Provincial Key Laboratory 
+of Soil Carbon Sequestration and Pollution Control in Soils, Kunming, 650500, 
+Yunnan, China.
+(2)Faculty of Environmental Science & Engineering, Kunming University of Science 
+& Technology, Kunming, 650500, Yunnan, China; Yunnan Provincial Key Laboratory 
+of Soil Carbon Sequestration and Pollution Control in Soils, Kunming, 650500, 
+Yunnan, China; Stockbridge School of Agriculture, University of Massachusetts, 
+Amherst, MA, 01003, United States.
+(3)Stockbridge School of Agriculture, University of Massachusetts, Amherst, MA, 
+01003, United States. Electronic address: bx@umass.edu.
+
+Environmentally persistent free radicals (EPFRs) are defined as organic free 
+radicals stabilized on or inside particles. They are persistent because of the 
+protection by the particles and show significant toxicity to organisms. 
+Increasing research interests have been attracted to study the potential 
+environmental implications of EPFRs. Because of their different physical forms 
+from conventional contaminants, it is not applicable to use the commonly used 
+technique and strategy to predict and assess the behavior and risks of EPFRs. 
+Current studies on EPFRs are scattered and not systematic enough to draw clear 
+conclusions. Therefore, this review is organized to critically discuss the 
+current research progress on EPFRs, highlighting their occurrence and transport, 
+generation mechanisms, as well as their environmental implications (including 
+both toxicity and reactivity). EPFR formation and stabilization as affected by 
+the precursors and environmental factors are useful breakthrough to understand 
+their formation mechanisms. To better understand the major differences between 
+EPFRs and common contaminants, we identified the unique processes and/or 
+mechanisms related to EPFRs. The knowledge gaps will be also addressed to 
+highlight the future research while summarizing the research progress. 
+Quantitative analysis of the interactions between organic contaminants and EPFRs 
+will greatly improve the predictive accuracy of the multimedia environmental 
+fate models. In addition, the health risks will be better evaluated when 
+considering the toxicity contributed by EFPRs.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.envpol.2019.02.032
+PMID: 30802746 [Indexed for MEDLINE]
