@@ -22,7 +22,7 @@ pkl_path = Path("docs_V01.pkl")
 def generate_response(input_text):
     start_time = time.time()
     with get_openai_callback() as cb:
-        st.info(docs.query(input_text,k=5))
+        st.info(docs.query(input_text,k=5,length_prompt="As complete as possible"))
     # 记录结束时间
     end_time = time.time()
     # 计算运行时间
